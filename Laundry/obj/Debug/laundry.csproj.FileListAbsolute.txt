@@ -1,0 +1,1979 @@
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Oil Change.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil Change.exe
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil Change.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Oil Change.exe
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Oil Change.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormMain.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormSoftwareEnable.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormRegister.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lundery\Oil Change\bin\Debug\Stimulsoft.Report.Win.xml
+E:\Develop\C#\lundery\Oil Change\bin\Debug\Oil Change.exe.config
+E:\Develop\C#\lundery\Oil Change\bin\Debug\Oil Change.exe
+E:\Develop\C#\lundery\Oil Change\bin\Debug\Oil Change.pdb
+E:\Develop\C#\lundery\Oil Change\bin\Debug\EntityFramework.dll
+E:\Develop\C#\lundery\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+E:\Develop\C#\lundery\Oil Change\bin\Debug\System.Data.SQLite.dll
+E:\Develop\C#\lundery\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Develop\C#\lundery\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Develop\C#\lundery\Oil Change\bin\Debug\EntityFramework.xml
+E:\Develop\C#\lundery\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+E:\Develop\C#\lundery\Oil Change\bin\Debug\System.Data.SQLite.xml
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormDelete.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormLogin.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormMain.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormManagePrice.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormMange.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormNewUser.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormSearch.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormServices.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormSms.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormSoftwareEnable.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.Properties.Resources.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil_Change.FormRegister.resources
+E:\Develop\C#\lundery\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil Change.exe
+E:\Develop\C#\lundery\Oil Change\obj\Debug\Oil Change.pdb
+E:\Develop\C#\lundery\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\lundery with report service\Oil Change\bin\Debug\Oil Change.exe.config
+C:\Users\Amir.r\Desktop\lundery with report service\Oil Change\obj\Debug\Oil Change.exe
+C:\Users\Amir.r\Desktop\lundery with report service\Oil Change\obj\Debug\Oil Change.pdb
+C:\Users\Amir.r\Desktop\lundery-with-report-service\Oil Change\bin\Debug\Oil Change.exe.config
+C:\Users\Amir.r\Desktop\lundery-with-report-service\Oil Change\obj\Debug\Oil Change.exe
+C:\Users\Amir.r\Desktop\lundery-with-report-service\Oil Change\obj\Debug\Oil Change.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Oil Change.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil Change.exe
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil Change.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Oil Change.exe
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Oil Change.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.xml
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Oil Change.exe.config
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Oil Change.exe
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Oil Change.pdb
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.dll
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.dll
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.xml
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+E:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.xml
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormDelete.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormLogin.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormMain1.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormManagePrice.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormMange.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormNewUser.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSearch.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormServices.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSms.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSoftwareEnable.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.Properties.Resources.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormRegister.resources
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil Change.exe
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil Change.pdb
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+E:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormAccounting.resources
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Oil Change.exe.config
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil Change.exe
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil Change.pdb
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Oil Change.exe
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Oil Change.pdb
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\EntityFramework.dll
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.dll
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\EntityFramework.xml
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.pdb
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.xml
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.pdb
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.xml
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.pdb
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.xml
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.pdb
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.xml
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.pdb
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.xml
+I:\lundry 6-16\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.xml
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormAccounting.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormDelete.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormLogin.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormMain1.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormManagePrice.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormMange.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormNewUser.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSearch.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormServices.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSettings.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSms.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\Oil_Change.Properties.Resources.resources
+I:\lundry 6-16\lunderyReport\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Oil Change.exe.config
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Oil Change.exe
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Oil Change.pdb
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormAccounting.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormDelete.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormLogin.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormMain1.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormManagePrice.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormMange.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormNewUser.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSearch.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormServices.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSettings.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormSms.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil_Change.Properties.Resources.resources
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil Change.exe
+C:\Users\Amir\Desktop\lunderyReport\Oil Change\obj\Debug\Oil Change.pdb
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.dll
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.xml
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\System.Data.SQLite.dll.config
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Oil_Change.FormAccounting.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Laundry.exe.config
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Laundry.exe
+C:\Develop\C#\lunderyReport\Oil Change\bin\Debug\Laundry.pdb
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.exe
+C:\Develop\C#\lunderyReport\Oil Change\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Oil_Change.FormAccounting.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Laundry 6-21\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-21\Oil Change\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 6-22\Oil Change\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 6-22\Oil Change\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 6-24\Oil Change\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 6-24\Oil Change\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 6-24\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 6-24\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 6-26\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 6-26\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-26\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-28\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\Laundry 6-29\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 6-29\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 6-30\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 6-30\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-1\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-2\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 7-3 work on print\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-5 serial ama\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-6\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-6\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-7 Export Excel word pdf\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Laundry 7-8 DB ErsalNasode (moshkel dll)\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\Laundry 7-9 login va register\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\7 -11\Laundry 7-8 DB ErsalNasode\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\7 -11\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\7 -11\Laundry 7-8 DB ErsalNasode\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\7 -11\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\7 -11\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\7 -11\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\7 -11 baghimande\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\7 -12\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\7 -12\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\7 -12\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\7 -12\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\7 -12\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\7 -12\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\7 -12\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\7-13\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\7-13\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\7-13\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\7-13\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\7-13\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\7-13\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\7-13\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\7-13\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\7-13\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\7-13\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-14\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\7-15\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\7-15\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\7-15\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\7-15\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\7-15\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\7-15\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\7-15\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\7-15\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\7-15\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\7-15\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\7-16\Laundry\bin\Debug\Laundry.exe.config
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.exe
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.pdb
+C:\Develop\C#\7-16\Laundry\bin\Debug\Laundry.exe
+C:\Develop\C#\7-16\Laundry\bin\Debug\Laundry.pdb
+C:\Develop\C#\7-16\Laundry\bin\Debug\EntityFramework.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Develop\C#\7-16\Laundry\bin\Debug\EntityFramework.xml
+C:\Develop\C#\7-16\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Develop\C#\7-16\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Develop\C#\7-16\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.log.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Develop\C#\7-16\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Develop\C#\7-16\Laundry\bin\Debug\POS_PC.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-16\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-17\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir\Desktop\Laundry 7-17\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir\Desktop\Develop\C#\7-17\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Laundry.exe.config
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.exe
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.pdb
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Laundry.exe
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Laundry.pdb
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\System.Data.SQLite.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Base.pdb
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Controls.pdb
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Controls.Win.pdb
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Report.pdb
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Report.Win.pdb
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\System.Data.SQLite.xml
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\laundry.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormBirthDay.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormDelete.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormEditService.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormEditSmallReport.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormEditUser.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormErsalNashode.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormLogin.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormMain1.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormManagePrice.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormMange.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormNewUser.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormReports.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormReportServices.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormSearch.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormServices.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormSettings.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormSms.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormBackup.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.FormRestore.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.log.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\obj\Debug\laundry.csproj.GenerateResource.Cache

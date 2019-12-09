@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="kitchenModel.Store" Provider="System.Data.SQLite.EF6" ProviderManifestToken="data source=C:\Users\Amir\Desktop\Develop\C#\kitchen\Laundry\bin\Debug\kitchen.db" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ErsalNashode">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Name" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Message" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Date" Type="integer" />
+    <Property Name="Time" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="CodeRahgiri" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KindKala">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Name" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="MetrDarad" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Metr" Type="integer" />
+    <Property Name="NameService" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KindService">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Name" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Manage">
+    <Key>
+      <PropertyRef Name="IdManage" />
+    </Key>
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="50" />
+    <Property Name="Access" Type="nvarchar" MaxLength="2" />
+    <Property Name="IdManage" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NewService" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Tools" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Search" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Sms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Report" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Backup" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Setting" Type="nvarchar" MaxLength="2147483647" />
+  </EntityType>
+  <EntityType Name="NameService">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Name" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Category" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Reg">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="State" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Date" Type="integer" />
+    <Property Name="Serial1" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="CountOpen" Type="integer" />
+  </EntityType>
+  <EntityType Name="ReportService">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Ready" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Eshterak" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Date" Type="integer" />
+    <Property Name="Kind" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Kala" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Service" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Some" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Price" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="CodeRahgiri" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="NumberServise" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Service">
+    <Key>
+      <PropertyRef Name="IdService" />
+    </Key>
+    <Property Name="Eshterak" Type="nvarchar" MaxLength="10" />
+    <Property Name="Name" Type="nvarchar" MaxLength="20" />
+    <Property Name="DateService" Type="integer" />
+    <Property Name="Mobile" Type="varchar" MaxLength="2147483647" />
+    <Property Name="Bestankar" Type="integer" />
+    <Property Name="Pardakhti" Type="integer" />
+    <Property Name="Takhfif" Type="decimal" Precision="53" Scale="0" />
+    <Property Name="SumServices" Type="integer" />
+    <Property Name="Tasfiye" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="CodeRahgiri" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="NumberService" Type="nvarchar" MaxLength="10" />
+    <Property Name="ReadyDate" Type="integer" />
+    <Property Name="SendReadySms" Type="integer" />
+    <Property Name="Description" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="IdService" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ServicesPrice">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="ServisKind" Type="nvarchar" MaxLength="50" />
+    <Property Name="ServiceKala" Type="nvarchar" MaxLength="50" />
+    <Property Name="ServiseName" Type="nvarchar" MaxLength="50" />
+    <Property Name="ServicePrice" Type="integer" />
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Setting">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="CommercialName" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="ManageName" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Mobile" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Tel" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Address" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Email" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Signature" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="NumberSms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="GroupSms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="WelcomeSms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="AcceptSms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="ReadySms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="DeliverySms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="InviteClubeSms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="BirthDaySms" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EndCreateCodeRahgiri" Type="integer" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Eshterak" Type="nvarchar" MaxLength="10" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Date" Type="integer" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="13" />
+    <Property Name="Email" Type="nvarchar" MaxLength="70" />
+    <Property Name="BirthDayDate" Type="integer" />
+    <Property Name="Address" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="PostiCode" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="WhiteSms">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="W1" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="W2" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="W3" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="W4" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="W5" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="W6" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="W7" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="W8" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="W9" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R1" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R2" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R3" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R4" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R5" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R6" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R7" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R8" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R9" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R10" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="R11" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D1" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D2" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D3" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D4" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D5" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D6" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D7" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D8" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D9" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D10" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="D11" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S1" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S2" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S3" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S4" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S5" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S6" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S7" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S8" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S9" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S10" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S11" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S12" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S13" Type="nvarchar" MaxLength="2147483647" />
+    <Property Name="S14" Type="nvarchar" MaxLength="2147483647" />
+  </EntityType>
+  <EntityContainer Name="kitchenModelStoreContainer">
+    <EntitySet Name="ErsalNashode" EntityType="Self.ErsalNashode" store:Type="Tables" />
+    <EntitySet Name="KindKala" EntityType="Self.KindKala" store:Type="Tables" />
+    <EntitySet Name="KindService" EntityType="Self.KindService" store:Type="Tables" />
+    <EntitySet Name="Manage" EntityType="Self.Manage" store:Type="Tables" />
+    <EntitySet Name="NameService" EntityType="Self.NameService" store:Type="Tables" />
+    <EntitySet Name="Reg" EntityType="Self.Reg" store:Type="Tables" />
+    <EntitySet Name="ReportService" EntityType="Self.ReportService" store:Type="Tables" />
+    <EntitySet Name="Service" EntityType="Self.Service" store:Type="Tables" />
+    <EntitySet Name="ServicesPrice" EntityType="Self.ServicesPrice" store:Type="Tables" />
+    <EntitySet Name="Setting" EntityType="Self.Setting" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" store:Type="Tables" />
+    <EntitySet Name="WhiteSms" EntityType="Self.WhiteSms" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

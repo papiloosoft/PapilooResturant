@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="kitchenModelStoreContainer" CdmEntityContainer="kitchenEntities">
+    <EntitySetMapping Name="ErsalNashode">
+      <EntityTypeMapping TypeName="kitchenModel.ErsalNashode">
+        <MappingFragment StoreEntitySet="ErsalNashode">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="CodeRahgiri" ColumnName="CodeRahgiri" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KindKala">
+      <EntityTypeMapping TypeName="kitchenModel.KindKala">
+        <MappingFragment StoreEntitySet="KindKala">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="MetrDarad" ColumnName="MetrDarad" />
+          <ScalarProperty Name="Metr" ColumnName="Metr" />
+          <ScalarProperty Name="NameService" ColumnName="NameService" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KindService">
+      <EntityTypeMapping TypeName="kitchenModel.KindService">
+        <MappingFragment StoreEntitySet="KindService">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Manage">
+      <EntityTypeMapping TypeName="kitchenModel.Manage">
+        <MappingFragment StoreEntitySet="Manage">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Access" ColumnName="Access" />
+          <ScalarProperty Name="IdManage" ColumnName="IdManage" />
+          <ScalarProperty Name="NewService" ColumnName="NewService" />
+          <ScalarProperty Name="Tools" ColumnName="Tools" />
+          <ScalarProperty Name="Search" ColumnName="Search" />
+          <ScalarProperty Name="Sms" ColumnName="Sms" />
+          <ScalarProperty Name="Report" ColumnName="Report" />
+          <ScalarProperty Name="Backup" ColumnName="Backup" />
+          <ScalarProperty Name="Setting" ColumnName="Setting" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NameService">
+      <EntityTypeMapping TypeName="kitchenModel.NameService">
+        <MappingFragment StoreEntitySet="NameService">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Reg">
+      <EntityTypeMapping TypeName="kitchenModel.Reg">
+        <MappingFragment StoreEntitySet="Reg">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Serial1" ColumnName="Serial1" />
+          <ScalarProperty Name="CountOpen" ColumnName="CountOpen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReportService">
+      <EntityTypeMapping TypeName="kitchenModel.ReportService">
+        <MappingFragment StoreEntitySet="ReportService">
+          <ScalarProperty Name="Ready" ColumnName="Ready" />
+          <ScalarProperty Name="Eshterak" ColumnName="Eshterak" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Kind" ColumnName="Kind" />
+          <ScalarProperty Name="Kala" ColumnName="Kala" />
+          <ScalarProperty Name="Service" ColumnName="Service" />
+          <ScalarProperty Name="Some" ColumnName="Some" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="CodeRahgiri" ColumnName="CodeRahgiri" />
+          <ScalarProperty Name="NumberServise" ColumnName="NumberServise" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Service">
+      <EntityTypeMapping TypeName="kitchenModel.Service">
+        <MappingFragment StoreEntitySet="Service">
+          <ScalarProperty Name="Eshterak" ColumnName="Eshterak" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="DateService" ColumnName="DateService" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Bestankar" ColumnName="Bestankar" />
+          <ScalarProperty Name="Pardakhti" ColumnName="Pardakhti" />
+          <ScalarProperty Name="Takhfif" ColumnName="Takhfif" />
+          <ScalarProperty Name="SumServices" ColumnName="SumServices" />
+          <ScalarProperty Name="Tasfiye" ColumnName="Tasfiye" />
+          <ScalarProperty Name="CodeRahgiri" ColumnName="CodeRahgiri" />
+          <ScalarProperty Name="NumberService" ColumnName="NumberService" />
+          <ScalarProperty Name="ReadyDate" ColumnName="ReadyDate" />
+          <ScalarProperty Name="SendReadySms" ColumnName="SendReadySms" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="IdService" ColumnName="IdService" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ServicesPrice">
+      <EntityTypeMapping TypeName="kitchenModel.ServicesPrice">
+        <MappingFragment StoreEntitySet="ServicesPrice">
+          <ScalarProperty Name="ServisKind" ColumnName="ServisKind" />
+          <ScalarProperty Name="ServiceKala" ColumnName="ServiceKala" />
+          <ScalarProperty Name="ServiseName" ColumnName="ServiseName" />
+          <ScalarProperty Name="ServicePrice" ColumnName="ServicePrice" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Setting">
+      <EntityTypeMapping TypeName="kitchenModel.Setting">
+        <MappingFragment StoreEntitySet="Setting">
+          <ScalarProperty Name="CommercialName" ColumnName="CommercialName" />
+          <ScalarProperty Name="ManageName" ColumnName="ManageName" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+          <ScalarProperty Name="Tel" ColumnName="Tel" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Signature" ColumnName="Signature" />
+          <ScalarProperty Name="NumberSms" ColumnName="NumberSms" />
+          <ScalarProperty Name="GroupSms" ColumnName="GroupSms" />
+          <ScalarProperty Name="WelcomeSms" ColumnName="WelcomeSms" />
+          <ScalarProperty Name="AcceptSms" ColumnName="AcceptSms" />
+          <ScalarProperty Name="ReadySms" ColumnName="ReadySms" />
+          <ScalarProperty Name="DeliverySms" ColumnName="DeliverySms" />
+          <ScalarProperty Name="InviteClubeSms" ColumnName="InviteClubeSms" />
+          <ScalarProperty Name="BirthDaySms" ColumnName="BirthDaySms" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="EndCreateCodeRahgiri" ColumnName="EndCreateCodeRahgiri" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="kitchenModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="Eshterak" ColumnName="Eshterak" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="BirthDayDate" ColumnName="BirthDayDate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PostiCode" ColumnName="PostiCode" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WhiteSms">
+      <EntityTypeMapping TypeName="kitchenModel.WhiteSms">
+        <MappingFragment StoreEntitySet="WhiteSms">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="W1" ColumnName="W1" />
+          <ScalarProperty Name="W2" ColumnName="W2" />
+          <ScalarProperty Name="W3" ColumnName="W3" />
+          <ScalarProperty Name="W4" ColumnName="W4" />
+          <ScalarProperty Name="W5" ColumnName="W5" />
+          <ScalarProperty Name="W6" ColumnName="W6" />
+          <ScalarProperty Name="W7" ColumnName="W7" />
+          <ScalarProperty Name="W8" ColumnName="W8" />
+          <ScalarProperty Name="W9" ColumnName="W9" />
+          <ScalarProperty Name="R1" ColumnName="R1" />
+          <ScalarProperty Name="R2" ColumnName="R2" />
+          <ScalarProperty Name="R3" ColumnName="R3" />
+          <ScalarProperty Name="R4" ColumnName="R4" />
+          <ScalarProperty Name="R5" ColumnName="R5" />
+          <ScalarProperty Name="R6" ColumnName="R6" />
+          <ScalarProperty Name="R7" ColumnName="R7" />
+          <ScalarProperty Name="R8" ColumnName="R8" />
+          <ScalarProperty Name="R9" ColumnName="R9" />
+          <ScalarProperty Name="R10" ColumnName="R10" />
+          <ScalarProperty Name="R11" ColumnName="R11" />
+          <ScalarProperty Name="D1" ColumnName="D1" />
+          <ScalarProperty Name="D2" ColumnName="D2" />
+          <ScalarProperty Name="D3" ColumnName="D3" />
+          <ScalarProperty Name="D4" ColumnName="D4" />
+          <ScalarProperty Name="D5" ColumnName="D5" />
+          <ScalarProperty Name="D6" ColumnName="D6" />
+          <ScalarProperty Name="D7" ColumnName="D7" />
+          <ScalarProperty Name="D8" ColumnName="D8" />
+          <ScalarProperty Name="D9" ColumnName="D9" />
+          <ScalarProperty Name="D10" ColumnName="D10" />
+          <ScalarProperty Name="D11" ColumnName="D11" />
+          <ScalarProperty Name="S1" ColumnName="S1" />
+          <ScalarProperty Name="S2" ColumnName="S2" />
+          <ScalarProperty Name="S3" ColumnName="S3" />
+          <ScalarProperty Name="S4" ColumnName="S4" />
+          <ScalarProperty Name="S5" ColumnName="S5" />
+          <ScalarProperty Name="S6" ColumnName="S6" />
+          <ScalarProperty Name="S7" ColumnName="S7" />
+          <ScalarProperty Name="S8" ColumnName="S8" />
+          <ScalarProperty Name="S9" ColumnName="S9" />
+          <ScalarProperty Name="S10" ColumnName="S10" />
+          <ScalarProperty Name="S11" ColumnName="S11" />
+          <ScalarProperty Name="S12" ColumnName="S12" />
+          <ScalarProperty Name="S13" ColumnName="S13" />
+          <ScalarProperty Name="S14" ColumnName="S14" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

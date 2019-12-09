@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="kitchenModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ErsalNashode">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Phone" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Message" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="Int64" />
+    <Property Name="Time" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="CodeRahgiri" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="KindKala">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="MetrDarad" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Metr" Type="Int64" />
+    <Property Name="NameService" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="KindService">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Manage">
+    <Key>
+      <PropertyRef Name="IdManage" />
+    </Key>
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Access" Type="String" MaxLength="2" FixedLength="false" Unicode="true" />
+    <Property Name="IdManage" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NewService" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Tools" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Search" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Sms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Report" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Backup" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Setting" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="NameService">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Name" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Category" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Reg">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="State" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="Int64" />
+    <Property Name="Serial1" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="CountOpen" Type="Int64" />
+  </EntityType>
+  <EntityType Name="ReportService">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Ready" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Eshterak" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="Int64" />
+    <Property Name="Kind" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Kala" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Service" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Some" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="CodeRahgiri" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="NumberServise" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Service">
+    <Key>
+      <PropertyRef Name="IdService" />
+    </Key>
+    <Property Name="Eshterak" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DateService" Type="Int64" />
+    <Property Name="Mobile" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="false" />
+    <Property Name="Bestankar" Type="Int64" />
+    <Property Name="Pardakhti" Type="Int64" />
+    <Property Name="Takhfif" Type="Decimal" Precision="53" Scale="0" />
+    <Property Name="SumServices" Type="Int64" />
+    <Property Name="Tasfiye" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="CodeRahgiri" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="NumberService" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="ReadyDate" Type="Int64" />
+    <Property Name="SendReadySms" Type="Int64" />
+    <Property Name="Description" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="IdService" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="ServicesPrice">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="ServisKind" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ServiceKala" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ServiseName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ServicePrice" Type="Int64" />
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="Setting">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="CommercialName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="ManageName" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Mobile" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Tel" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Signature" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="NumberSms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="GroupSms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="WelcomeSms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="AcceptSms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="ReadySms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="DeliverySms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="InviteClubeSms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="BirthDaySms" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EndCreateCodeRahgiri" Type="Int64" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Eshterak" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Date" Type="Int64" />
+    <Property Name="Phone" Type="String" MaxLength="13" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <Property Name="BirthDayDate" Type="Int64" />
+    <Property Name="Address" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="PostiCode" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <EntityType Name="WhiteSms">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="W1" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="W2" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="W3" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="W4" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="W5" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="W6" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="W7" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="W8" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="W9" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R1" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R2" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R3" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R4" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R5" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R6" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R7" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R8" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R9" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R10" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="R11" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D1" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D2" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D3" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D4" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D5" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D6" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D7" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D8" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D9" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D10" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="D11" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S1" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S2" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S3" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S4" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S5" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S6" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S7" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S8" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S9" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S10" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S11" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S12" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S13" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+    <Property Name="S14" Type="String" MaxLength="2147483647" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="kitchenEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ErsalNashode" EntityType="Self.ErsalNashode" />
+    <EntitySet Name="KindKala" EntityType="Self.KindKala" />
+    <EntitySet Name="KindService" EntityType="Self.KindService" />
+    <EntitySet Name="Manage" EntityType="Self.Manage" />
+    <EntitySet Name="NameService" EntityType="Self.NameService" />
+    <EntitySet Name="Reg" EntityType="Self.Reg" />
+    <EntitySet Name="ReportService" EntityType="Self.ReportService" />
+    <EntitySet Name="Service" EntityType="Self.Service" />
+    <EntitySet Name="ServicesPrice" EntityType="Self.ServicesPrice" />
+    <EntitySet Name="Setting" EntityType="Self.Setting" />
+    <EntitySet Name="User" EntityType="Self.User" />
+    <EntitySet Name="WhiteSms" EntityType="Self.WhiteSms" />
+  </EntityContainer>
+</Schema>
