@@ -95,7 +95,7 @@
             <DataService_NumberService Ref="8" type="Text" isKey="true">
               <Brush>Transparent</Brush>
               <CanGrow>True</CanGrow>
-              <ClientRectangle>0.1,0.9,0.9,0.3</ClientRectangle>
+              <ClientRectangle>1.8,0.9,0.9,0.3</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Font>Arial,9.75,Regular,Point,False,0</Font>
               <HorAlignment>Center</HorAlignment>
@@ -189,7 +189,7 @@
             </Text5>
             <Text6 Ref="14" type="Text" isKey="true">
               <Brush>Transparent</Brush>
-              <ClientRectangle>1,0.9,0.7,0.2</ClientRectangle>
+              <ClientRectangle>2.7,0.9,0.9,0.2</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
               <Guid>c940ae0f309f4f87a684a2498db931fb</Guid>
@@ -198,7 +198,7 @@
               <Name>Text6</Name>
               <Page isRef="3" />
               <Parent isRef="4" />
-              <Text>تعداد سرویس</Text>
+              <Text>قبلی تعداد سرویس</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -214,7 +214,7 @@
               <Name>Text3</Name>
               <Page isRef="3" />
               <Parent isRef="4" />
-              <Text>خشکشویی</Text>
+              <Text>رستوران</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -407,7 +407,7 @@
             </Text10>
             <Text11 Ref="33" type="Text" isKey="true">
               <Brush>Transparent</Brush>
-              <ClientRectangle>0.9,0.6,0.9,0.2</ClientRectangle>
+              <ClientRectangle>2.7,0.9,0.9,0.2</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Font>Arial,10,Bold</Font>
               <Guid>7118ad7318fe4d89b95041ef028891be</Guid>
@@ -453,7 +453,7 @@
             </Text14>
             <Text12 Ref="36" type="Text" isKey="true">
               <Brush>Transparent</Brush>
-              <ClientRectangle>0,0.6,0.9,0.2</ClientRectangle>
+              <ClientRectangle>1.8,0.9,0.9,0.2</ClientRectangle>
               <Conditions isList="true" count="0" />
               <Font>Arial,9.75,Regular,Point,False,0</Font>
               <HorAlignment>Center</HorAlignment>
@@ -571,10 +571,9 @@
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>9/30/2019 6:04:34 PM</ReportChanged>
+  <ReportChanged>12/9/2019 7:58:20 PM</ReportChanged>
   <ReportCreated>2/10/2019 2:27:16 PM</ReportCreated>
-  <ReportFile>C:\Users\Amir.r\Desktop\Develop\C#\Laundry 7-3 work on print\Laundry\bin\Debug\RptService.mrt</ReportFile>
-  <ReportGuid>53e73ad50e8e401298e76b63a2183786</ReportGuid>
+  <ReportGuid>6b032ab8b3864ebdb6ce9d73d3c15f12</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Inches</ReportUnit>
   <ReportVersion>2018.1.6.0</ReportVersion>

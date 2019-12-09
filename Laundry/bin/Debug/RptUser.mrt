@@ -194,7 +194,7 @@
               <CanGrow>True</CanGrow>
               <ClientRectangle>0,0,0.9,0.3</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Tahoma,9</Font>
+              <Font>Tahoma,8</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>DatarptUser_PostiCode</Name>
@@ -211,7 +211,7 @@
               <CanGrow>True</CanGrow>
               <ClientRectangle>0.9,0,0.9,0.3</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Tahoma,9</Font>
+              <Font>Tahoma,7</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>DatarptUser_Address</Name>
@@ -245,7 +245,7 @@
               <CanGrow>True</CanGrow>
               <ClientRectangle>2.8,0,1.1,0.3</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Tahoma,9</Font>
+              <Font>Tahoma,7</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>DatarptUser_Email</Name>
@@ -262,7 +262,7 @@
               <CanGrow>True</CanGrow>
               <ClientRectangle>3.9,0,1.2,0.3</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Tahoma,9</Font>
+              <Font>Tahoma,7</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>DatarptUser_Phone</Name>
@@ -360,10 +360,9 @@
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>10/5/2019 10:25:53 AM</ReportChanged>
+  <ReportChanged>12/9/2019 8:00:14 PM</ReportChanged>
   <ReportCreated>10/5/2019 10:04:26 AM</ReportCreated>
-  <ReportFile>C:\Develop\C#\Laundry 7-6\Laundry\bin\Debug\RptUser.mrt</ReportFile>
-  <ReportGuid>fa3f820c4657429abb266545b388fe11</ReportGuid>
+  <ReportGuid>32dc4f538f8c4ca3bd7da56bada50680</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Inches</ReportUnit>
   <ReportVersion>2018.1.6.0</ReportVersion>
@@ -386,7 +385,7 @@ namespace Reports
         }
 
         #region StiReport Designer generated code - do not modify
-        #endregion StiReport Designer generated code - do not modify
+		#endregion StiReport Designer generated code - do not modify
     }
 }
 </Script>

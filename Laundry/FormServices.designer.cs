@@ -37,15 +37,6 @@
             this.btnAddKindKala = new System.Windows.Forms.Button();
             this.btnAddKindService = new System.Windows.Forms.Button();
             this.dgShow = new System.Windows.Forms.DataGridView();
-            this.ServiceKind = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
-            this.kindKala = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
-            this.ServiceName = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
-            this.Some = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
-            this.Price = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
-            this.TotalPrice = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
-            this.CodeRahgiri = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
-            this.Delete = new System.Windows.Forms.DataGridViewButtonColumn();
-            this.Category = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnSave = new System.Windows.Forms.Button();
             this.comKindKala = new System.Windows.Forms.ComboBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -97,7 +88,6 @@
             this.numSome = new System.Windows.Forms.MaskedTextBox();
             this.label13 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.chxMetr = new System.Windows.Forms.CheckBox();
             this.label12 = new System.Windows.Forms.Label();
             this.lblCodeRahgiri = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -118,6 +108,15 @@
             this.txtAddress = new System.Windows.Forms.TextBox();
             this.dtBirthDay = new BPersianCalender.BPersianCalenderTextBox();
             this.label14 = new System.Windows.Forms.Label();
+            this.ServiceKind = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
+            this.kindKala = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
+            this.ServiceName = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
+            this.Some = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
+            this.Price = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
+            this.TotalPrice = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
+            this.CodeRahgiri = new Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn();
+            this.Delete = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.Category = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgShow)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -218,75 +217,6 @@
             this.dgShow.TabIndex = 48;
             this.dgShow.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgShow_CellContentClick);
             this.dgShow.MouseClick += new System.Windows.Forms.MouseEventHandler(this.dgShow_MouseClick);
-            // 
-            // ServiceKind
-            // 
-            this.ServiceKind.HeaderText = "نوع خدمت";
-            this.ServiceKind.Name = "ServiceKind";
-            this.ServiceKind.ReadOnly = true;
-            this.ServiceKind.Width = 200;
-            // 
-            // kindKala
-            // 
-            this.kindKala.FillWeight = 150F;
-            this.kindKala.HeaderText = "نوع کالا";
-            this.kindKala.Name = "kindKala";
-            this.kindKala.ReadOnly = true;
-            this.kindKala.Width = 150;
-            // 
-            // ServiceName
-            // 
-            this.ServiceName.FillWeight = 150F;
-            this.ServiceName.HeaderText = "نام خدمت";
-            this.ServiceName.Name = "ServiceName";
-            this.ServiceName.ReadOnly = true;
-            this.ServiceName.Width = 150;
-            // 
-            // Some
-            // 
-            this.Some.HeaderText = "مقدار";
-            this.Some.Name = "Some";
-            this.Some.ReadOnly = true;
-            this.Some.Width = 50;
-            // 
-            // Price
-            // 
-            this.Price.FillWeight = 130F;
-            this.Price.HeaderText = "قیمت فی";
-            this.Price.Name = "Price";
-            this.Price.ReadOnly = true;
-            this.Price.Width = 130;
-            // 
-            // TotalPrice
-            // 
-            this.TotalPrice.FillWeight = 150F;
-            this.TotalPrice.HeaderText = "قیمت کل";
-            this.TotalPrice.Name = "TotalPrice";
-            this.TotalPrice.ReadOnly = true;
-            this.TotalPrice.Width = 150;
-            // 
-            // CodeRahgiri
-            // 
-            this.CodeRahgiri.HeaderText = "کد رهگیری";
-            this.CodeRahgiri.Name = "CodeRahgiri";
-            this.CodeRahgiri.ReadOnly = true;
-            this.CodeRahgiri.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.CodeRahgiri.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            this.CodeRahgiri.Width = 130;
-            // 
-            // Delete
-            // 
-            this.Delete.HeaderText = "";
-            this.Delete.Name = "Delete";
-            this.Delete.ReadOnly = true;
-            this.Delete.Text = "حذف";
-            this.Delete.UseColumnTextForButtonValue = true;
-            // 
-            // Category
-            // 
-            this.Category.HeaderText = "دسته بندی";
-            this.Category.Name = "Category";
-            this.Category.ReadOnly = true;
             // 
             // btnSave
             // 
@@ -602,7 +532,6 @@
             this.panel1.Controls.Add(this.numSome);
             this.panel1.Controls.Add(this.label13);
             this.panel1.Controls.Add(this.button1);
-            this.panel1.Controls.Add(this.chxMetr);
             this.panel1.Controls.Add(this.dgShow);
             this.panel1.Controls.Add(this.label12);
             this.panel1.Controls.Add(this.lblCodeRahgiri);
@@ -896,17 +825,6 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_2);
             // 
-            // chxMetr
-            // 
-            this.chxMetr.AutoSize = true;
-            this.chxMetr.Location = new System.Drawing.Point(621, 47);
-            this.chxMetr.Name = "chxMetr";
-            this.chxMetr.Size = new System.Drawing.Size(49, 23);
-            this.chxMetr.TabIndex = 18;
-            this.chxMetr.Text = "متر";
-            this.chxMetr.UseVisualStyleBackColor = true;
-            this.chxMetr.Visible = false;
-            // 
             // label12
             // 
             this.label12.AutoSize = true;
@@ -1151,6 +1069,76 @@
             this.label14.Text = "تارخ تولد";
             this.label14.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // ServiceKind
+            // 
+            this.ServiceKind.HeaderText = "دسته";
+            this.ServiceKind.Name = "ServiceKind";
+            this.ServiceKind.ReadOnly = true;
+            this.ServiceKind.Width = 200;
+            // 
+            // kindKala
+            // 
+            this.kindKala.FillWeight = 150F;
+            this.kindKala.HeaderText = "محصول";
+            this.kindKala.Name = "kindKala";
+            this.kindKala.ReadOnly = true;
+            this.kindKala.Width = 150;
+            // 
+            // ServiceName
+            // 
+            this.ServiceName.FillWeight = 150F;
+            this.ServiceName.HeaderText = "سرویس";
+            this.ServiceName.Name = "ServiceName";
+            this.ServiceName.ReadOnly = true;
+            this.ServiceName.Width = 150;
+            // 
+            // Some
+            // 
+            this.Some.HeaderText = "مقدار";
+            this.Some.Name = "Some";
+            this.Some.ReadOnly = true;
+            this.Some.Width = 50;
+            // 
+            // Price
+            // 
+            this.Price.FillWeight = 130F;
+            this.Price.HeaderText = "قیمت فی";
+            this.Price.Name = "Price";
+            this.Price.ReadOnly = true;
+            this.Price.Width = 130;
+            // 
+            // TotalPrice
+            // 
+            this.TotalPrice.FillWeight = 150F;
+            this.TotalPrice.HeaderText = "قیمت کل";
+            this.TotalPrice.Name = "TotalPrice";
+            this.TotalPrice.ReadOnly = true;
+            this.TotalPrice.Width = 150;
+            // 
+            // CodeRahgiri
+            // 
+            this.CodeRahgiri.HeaderText = "کد رهگیری";
+            this.CodeRahgiri.Name = "CodeRahgiri";
+            this.CodeRahgiri.ReadOnly = true;
+            this.CodeRahgiri.Resizable = System.Windows.Forms.DataGridViewTriState.True;
+            this.CodeRahgiri.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
+            this.CodeRahgiri.Width = 130;
+            // 
+            // Delete
+            // 
+            this.Delete.HeaderText = "";
+            this.Delete.Name = "Delete";
+            this.Delete.ReadOnly = true;
+            this.Delete.Text = "حذف";
+            this.Delete.UseColumnTextForButtonValue = true;
+            // 
+            // Category
+            // 
+            this.Category.HeaderText = "دسته بندی";
+            this.Category.Name = "Category";
+            this.Category.ReadOnly = true;
+            this.Category.Visible = false;
+            // 
             // FormServices
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1218,7 +1206,6 @@
         public System.Windows.Forms.Label label1;
         public System.Windows.Forms.Label label12;
         public System.Windows.Forms.Label lblCodeRahgiri;
-        private System.Windows.Forms.CheckBox chxMetr;
         public System.Windows.Forms.Button button1;
         public System.Windows.Forms.Label label13;
         public System.Windows.Forms.Label label16;
@@ -1251,6 +1238,11 @@
         public System.Windows.Forms.Button btnEditSmallReport;
         public System.Windows.Forms.Button btnPay;
         public System.Windows.Forms.Label lblCategory;
+        private System.Windows.Forms.CheckBox chxTasfiye;
+        private System.Windows.Forms.CheckBox chxNewCustomer;
+        private System.Windows.Forms.TextBox txtCodeRahgiri;
+        public System.Windows.Forms.Label lblTotalPrice;
+        public System.Windows.Forms.Label label24;
         private Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn ServiceKind;
         private Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn kindKala;
         private Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn ServiceName;
@@ -1260,10 +1252,5 @@
         private Stimulsoft.Controls.Win.DotNetBar.Controls.DataGridViewLabelXColumn CodeRahgiri;
         private System.Windows.Forms.DataGridViewButtonColumn Delete;
         private System.Windows.Forms.DataGridViewTextBoxColumn Category;
-        private System.Windows.Forms.CheckBox chxTasfiye;
-        private System.Windows.Forms.CheckBox chxNewCustomer;
-        private System.Windows.Forms.TextBox txtCodeRahgiri;
-        public System.Windows.Forms.Label lblTotalPrice;
-        public System.Windows.Forms.Label label24;
     }
 }

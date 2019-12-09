@@ -122,7 +122,7 @@
               <Name>HeaderrptReportService_Service</Name>
               <Page isRef="3" />
               <Parent isRef="4" />
-              <Text>خدمت</Text>
+              <Text>سرویس</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -139,7 +139,7 @@
               <Name>HeaderrptReportService_Kala</Name>
               <Page isRef="3" />
               <Parent isRef="4" />
-              <Text>کالا</Text>
+              <Text>محصول</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -156,7 +156,7 @@
               <Name>HeaderrptReportService_Kind</Name>
               <Page isRef="3" />
               <Parent isRef="4" />
-              <Text>نوع</Text>
+              <Text>دسته</Text>
               <TextBrush>Black</TextBrush>
               <TextOptions>,,,,WordWrap=True,A=0</TextOptions>
               <Type>Expression</Type>
@@ -247,7 +247,7 @@
               <CanGrow>True</CanGrow>
               <ClientRectangle>1.4,0,1.1,0.3</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Tahoma,9</Font>
+              <Font>Tahoma,7</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>DatarptReportService_Price</Name>
@@ -298,7 +298,7 @@
               <CanGrow>True</CanGrow>
               <ClientRectangle>4.2,0,1.1,0.3</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Tahoma,9</Font>
+              <Font>Tahoma,7</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>DatarptReportService_Kala</Name>
@@ -315,7 +315,7 @@
               <CanGrow>True</CanGrow>
               <ClientRectangle>5.3,0,1,0.3</ClientRectangle>
               <Conditions isList="true" count="0" />
-              <Font>Tahoma,9</Font>
+              <Font>Tahoma,8</Font>
               <HorAlignment>Center</HorAlignment>
               <Margins>0,0,0,0</Margins>
               <Name>DatarptReportService_Kind</Name>
@@ -396,9 +396,9 @@
     <value>Stimulsoft.Report.Dll</value>
   </ReferencedAssemblies>
   <ReportAlias>Report</ReportAlias>
-  <ReportChanged>10/7/2019 4:23:14 PM</ReportChanged>
+  <ReportChanged>12/9/2019 8:01:53 PM</ReportChanged>
   <ReportCreated>10/7/2019 4:13:06 PM</ReportCreated>
-  <ReportGuid>331f001af3c947d9a98a7ab8b0867d42</ReportGuid>
+  <ReportGuid>ce2b0803052a4278824c3236c8b28fec</ReportGuid>
   <ReportName>Report</ReportName>
   <ReportUnit>Inches</ReportUnit>
   <ReportVersion>2018.1.6.0</ReportVersion>

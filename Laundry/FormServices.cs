@@ -485,75 +485,7 @@ namespace Laundry
                             //int part = 0;
                             //bool uniCode = true;
                             //double doIt=info.MessageInfo(sign.Signature, message2, ref part, ref uniCode);
-                            if (message2.Length >132)
-                            {
-                                message = "";
-                                int oto = 0,shostoshoo=0,otoshostoshoo=0,rang=0,tamirat=0,sayer=0,sefidShooi=0;
-                                for (int i = 0; i < dgShow.RowCount; i++)
-                                {
-                                    switch (dgShow.Rows[i].Cells[8].Value.ToString())
-                                    {
-                                        case "اتو":
-                                            {
-                                                oto++;
-                                                break;
-                                            }
-                                        case "شستشو":
-                                            {
-                                                shostoshoo++;
-                                                break;
-                                            }
-                                        case "شستشو و اتو":
-                                            {
-                                                otoshostoshoo++;
-                                                break;
-                                            }
-                                        case "رنگ":
-                                            {
-                                                rang++;
-                                                break;
-                                            }
-                                        case "تعمیرات":
-                                            {
-                                                tamirat++;
-                                                break;
-                                            }
-                                        case "سایر":
-                                            {
-                                                sayer++;
-                                                break;
-                                            }
-                                        case "سفید شویی":
-                                            {
-                                                sefidShooi++;
-                                                break;
-                                            }
-                                    }
-                                }
-                                if (oto > 0)
-                                    message = message + "اتو " + oto.ToString() + ",";
-                                if (shostoshoo > 0)
-                                    message = message + "شستشو " + shostoshoo.ToString() + ",";
-                                if (otoshostoshoo > 0)
-                                    message = message + "شستشو و اتو " + otoshostoshoo.ToString() + ",";
-                                if (rang > 0)
-                                    message = message + "رنگ " + rang.ToString() + ",";
-                                if (tamirat > 0)
-                                    message = message + "تعمیرات " + tamirat.ToString() + ",";
-                                if (sefidShooi > 0)
-                                    message = message + "سفید شویی " + sefidShooi.ToString() + ",";
-                                if (sayer > 0)
-                                    message = message + "سایر " + sayer.ToString() + ",";
-                                //---------
-                                if (string.IsNullOrEmpty(sms.S12))
-                                {
-                                    message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + sms.S13;
-                                }
-                                else
-                                    message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + dtNewService.Text + sms.S13;
 
-                                //MessageBox.Show("khedmat " + message2.Length.ToString());
-                                lblError.Text = "فرمت فشرده پیامک";
 
                                 //*********
                                 if (message2.Length > 132)
@@ -571,7 +503,7 @@ namespace Laundry
 
                                 }
 
-                            }
+                            
                             //System.Web.HttpUtility.HtmlDecode(text);
                             //MessageBox.Show(message2);
                             //return;
@@ -723,75 +655,6 @@ namespace Laundry
                     //int part = 0;
                     //bool uniCode = true;
                     //double doIt=info.MessageInfo(sign.Signature, message2, ref part, ref uniCode);
-                    if (message2.Length > 132)
-                    {
-                        message = "";
-                        int oto = 0, shostoshoo = 0, otoshostoshoo = 0, rang = 0, tamirat = 0, sayer = 0, sefidShooi = 0;
-                        for (int i = 0; i < dgShow.RowCount; i++)
-                        {
-                            switch (dgShow.Rows[i].Cells[8].Value.ToString())
-                            {
-                                case "اتو":
-                                    {
-                                        oto++;
-                                        break;
-                                    }
-                                case "شستشو":
-                                    {
-                                        shostoshoo++;
-                                        break;
-                                    }
-                                case "شستشو و اتو":
-                                    {
-                                        otoshostoshoo++;
-                                        break;
-                                    }
-                                case "رنگ":
-                                    {
-                                        rang++;
-                                        break;
-                                    }
-                                case "تعمیرات":
-                                    {
-                                        tamirat++;
-                                        break;
-                                    }
-                                case "سایر":
-                                    {
-                                        sayer++;
-                                        break;
-                                    }
-                                case "سفید شویی":
-                                    {
-                                        sefidShooi++;
-                                        break;
-                                    }
-                            }
-                        }
-                        if (oto > 0)
-                            message = message + "اتو " + oto.ToString() + ",";
-                        if (shostoshoo > 0)
-                            message = message + "شستشو " + shostoshoo.ToString() + ",";
-                        if (otoshostoshoo > 0)
-                            message = message + "شستشو و اتو " + otoshostoshoo.ToString() + ",";
-                        if (rang > 0)
-                            message = message + "رنگ " + rang.ToString() + ",";
-                        if (tamirat > 0)
-                            message = message + "تعمیرات " + tamirat.ToString() + ",";
-                        if (sefidShooi > 0)
-                            message = message + "سفید شویی " + sefidShooi.ToString() + ",";
-                        if (sayer > 0)
-                            message = message + "سایر " + sayer.ToString() + ",";
-                        //---------
-                        if (string.IsNullOrEmpty(sms.S12))
-                        {
-                            message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + sms.S13;
-                        }
-                        else
-                            message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + dtNewService.Text + sms.S13;
-
-                        //MessageBox.Show("khedmat " + message2.Length.ToString());
-                        lblError.Text = "فرمت فشرده پیامک";
 
                         //*********
                         if (message2.Length > 132)
@@ -809,7 +672,7 @@ namespace Laundry
 
                         }
 
-                    }
+                    
 
                     ErsalNashode En = new ErsalNashode();
                     En.Name = txtName.Text;
@@ -849,7 +712,7 @@ namespace Laundry
         int run;
         private void FormServices_Load(object sender, EventArgs e)
         {
-            int run = 0;
+            //int run = 0;
             try
             {
                 using (var context = new kitchenEntities())
@@ -1063,10 +926,6 @@ namespace Laundry
                     var Name = context.Setting.Where(current => current.CommercialName !=null).FirstOrDefault();
                     nameshop = Name.CommercialName;
 
-                    //bool isService = context.Users.Where(check => check.Eshterak == txtEshterak.Text).Any();
-                    //if (isService == true)
-                    //{
-
                     List<servrvice> list = new List<servrvice>();
                     for (int i = 0; i < dgShow.Rows.Count; i++)
                     {
@@ -1093,55 +952,25 @@ namespace Laundry
 
                     report.RegBusinessObject("Service", list);
 
-                    //(report.GetComponentByName("HorizontalLinePrimitive3")).Enabled = false;
                     (report.GetComponentByName("DataService_Name") as StiText).Enabled = txtName.Enabled;
                     (report.GetComponentByName("DataService_Eshterak") as StiText).Enabled = txtEshterak.Enabled;
                     (report.GetComponentByName("DataService_DateService") as StiText).Enabled = dtNewService.Enabled;
-                    //---------------------gozaresh pooya
-                    //double x = 0, y = 2;
-                    //for (int i = 0; i < dgShow.Rows.Count; i++)
-                    //{
+                 
                         (report.GetComponentByName("DataService_Some") as StiText).Enabled = dgShow.Enabled;
                         (report.GetComponentByName("DataService_Price") as StiText).Enabled = dgShow.Enabled;
                         (report.GetComponentByName("DataService_khedmat") as StiText).Enabled = dgShow.Enabled;
 
-
-                    //    x++; y = 2;
-                    //}
-
-                    //----------
-                    //---------- baraye neshan dadan jam
-                    //y += 0.1;
-                    //(report.GetComponentByName("DataService_SumPrice") as StiText).Left = 0.2;
-                    //(report.GetComponentByName("DataService_SumPrice") as StiText).Top = y;
                     (report.GetComponentByName("DataService_SumPrice") as StiText).Enabled = txtSumServices.Enabled;
                     (report.GetComponentByName("Text7") as StiText).Text = nameshop;
                     (report.GetComponentByName("Text10") as StiText).Text = txtSumTakhfif.Text;
                     (report.GetComponentByName("Text12") as StiText).Text = txtPay.Text;
                     (report.GetComponentByName("Text14") as StiText).Text = txtBeiane.Text;
-                    //(report.GetComponentByName("HeaderService_SumPrice") as StiText).Left = 1.40;
-                    //(report.GetComponentByName("HeaderService_SumPrice") as StiText).Top = y;
-                    //(report.GetComponentByName("HeaderService_SumPrice") as StiText).Enabled = txtSumServices.Enabled;
 
 
-                    //--------- khat balaye jam
-                    //if (y > 2.1)
-                    //{
-                    //    (report.GetComponentByName("HorizontalLinePrimitive3")).Enabled = true;
-                    //    (report.GetComponentByName("HorizontalLinePrimitive3")).Left = 0;
-                    //    (report.GetComponentByName("HorizontalLinePrimitive3")).Top = y - 0.1;
+                    report.Print();
 
-                    //}
-                    //----------------------
-                    //----------------------
-                    report.Show();
-
-                    //}
-                    //else
-                    //{
-                    //    lblError.ForeColor = Color.Red;
-                    //    lblError.Text = "کاربری بااین شماره اشتراک وجود ندارد";
-                    //}
+                    //report.Show();
+                    
                 }
 
 
@@ -1371,7 +1200,6 @@ namespace Laundry
             txtAddKindkala.Text = "";
             txtAddKindkala.Visible = true;
             txtAddKindkala.Focus();
-            chxMetr.Visible = true;
         }
 
         private void btnAddNameService_Click(object sender, EventArgs e)
@@ -2215,10 +2043,7 @@ namespace Laundry
                     KindKala kk = new KindKala();
                     kk.Name = txtAddKindkala.Text;
                     kk.NameService = comServiceKind.Text;
-                    if (chxMetr.Checked == true)
-                        kk.MetrDarad = "true";
-                    else
-                        kk.MetrDarad = "false";
+
                     context.KindKala.Add(kk);
                     context.SaveChanges();
 
@@ -2229,7 +2054,6 @@ namespace Laundry
 
 
                     txtAddKindkala.Visible = false;
-                    chxMetr.Visible = false;
                 }
             }
 
