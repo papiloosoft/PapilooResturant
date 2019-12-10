@@ -469,39 +469,72 @@ namespace Laundry
                             {
                                 MessageBox.Show("از بخش تنظیمات پیامک نام تجاری را ثبت کنید", "تنظیمات", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                             }
-                            string message2 = "";
+                            string message2 = sms.S1;
+                       
+                        //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                        message2 = message2.Insert(message2.LastIndexOf("%%"), dtNewService.Text);
+                        message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                       // MessageBox.Show(message2);
+                        //---
+                        //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                        message2 = message2.Insert(message2.LastIndexOf("%%"), lblCodeRahgiri.Text);
+                        message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                        //MessageBox.Show(message2);
+                        //---
+                        //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                        message2 = message2.Insert(message2.LastIndexOf("%%"), message.Replace(" ","."));
+                        message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                        //MessageBox.Show(message2);
+                        //---
+                        //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                        message2 = message2.Insert(message2.LastIndexOf("%%"), txtName.Text.Replace(" ", "."));
+                        message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                        //MessageBox.Show(message2);
+                        //if (string.IsNullOrEmpty(sms.S12))
+                        //{
+                        //    message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + sms.S13;
+                        //}
+                        //else
+                        //    message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + dtNewService.Text + sms.S13;
 
-                        if (string.IsNullOrEmpty(sms.S12))
+                        //MessageBox.Show("name " + message2.Length.ToString());
+
+                        //--------
+                        //PARSGREEN.API.SMS.Send.SendSMS info = new PARSGREEN.API.SMS.Send.SendSMS();
+                        //int part = 0;
+                        //bool uniCode = true;
+                        //double doIt=info.MessageInfo(sign.Signature, message2, ref part, ref uniCode);
+
+
+                        //*********
+                        if (message2.Length > 132)
                         {
-                            message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + sms.S13;
+                            message2 = sms.S1;
+                            message = dgShow.Rows.Count.ToString();
+                            //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                            message2 = message2.Insert(message2.LastIndexOf("%%"), dtNewService.Text);
+                            message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                            //MessageBox.Show(message2);
+                            //---
+                            //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                            message2 = message2.Insert(message2.LastIndexOf("%%"), lblCodeRahgiri.Text);
+                            message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                            //MessageBox.Show(message2);
+                            //---
+                            //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                            message2 = message2.Insert(message2.LastIndexOf("%%"), message.Replace(" ", "."));
+                            message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                            //MessageBox.Show(message2);
+                            //---
+                            //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                            message2 = message2.Insert(message2.LastIndexOf("%%"), txtName.Text.Replace(" ", "."));
+                            message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                            //MessageBox.Show(message2);
+                            
+                            //MessageBox.Show("sefaresh " + message2.Length.ToString());
+                            //lblError.Text = "فرمت فشرده پیامک";
+
                         }
-                        else
-                            message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + dtNewService.Text + sms.S13;
-
-                            //MessageBox.Show("name " + message2.Length.ToString());
-
-                            //--------
-                            //PARSGREEN.API.SMS.Send.SendSMS info = new PARSGREEN.API.SMS.Send.SendSMS();
-                            //int part = 0;
-                            //bool uniCode = true;
-                            //double doIt=info.MessageInfo(sign.Signature, message2, ref part, ref uniCode);
-
-
-                                //*********
-                                if (message2.Length > 132)
-                                {
-                                    message = dgShow.Rows.Count.ToString();
-                                    if (string.IsNullOrEmpty(sms.S12))
-                                    {
-                                        message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + sms.S13;
-                                    }
-                                    else
-                                        message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + dtNewService.Text + sms.S13;
-
-                                    //MessageBox.Show("sefaresh " + message2.Length.ToString());
-                                    lblError.Text = "فرمت خیلی فشرده پیامک";
-
-                                }
 
                             
                             //System.Web.HttpUtility.HtmlDecode(text);
@@ -577,18 +610,31 @@ namespace Laundry
                     //*****
                     try
                     {
+                        string msg = dgShow.Rows.Count.ToString();
+                        string msg2= sms.S1;
 
+                        //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                        msg2 = msg2.Insert(msg2.LastIndexOf("%%"), dtNewService.Text);
+                        msg2 = msg2.Remove(msg2.LastIndexOf("%%"), 2);
+                        //MessageBox.Show(message2);
+                        //---
+                        //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                        msg2 = msg2.Insert(msg2.LastIndexOf("%%"), lblCodeRahgiri.Text);
+                        msg2 = msg2.Remove(msg2.LastIndexOf("%%"), 2);
+                        //MessageBox.Show(message2);
+                        //---
+                        //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                        msg2 = msg2.Insert(msg2.LastIndexOf("%%"), msg.Replace(" ", "."));
+                        msg2 = msg2.Remove(msg2.LastIndexOf("%%"), 2);
+                        //MessageBox.Show(message2);
+                        //---
+                        //MessageBox.Show(message2.LastIndexOf("%%").ToString());
+                        msg2 = msg2.Insert(msg2.LastIndexOf("%%"), txtName.Text.Replace(" ", "."));
+                        msg2 = msg2.Remove(msg2.LastIndexOf("%%"), 2);
 
-                        string msg = "";
-                        if (string.IsNullOrEmpty(sms.S12))
-                        {
-                            msg = sms.S1 + txtName.Text.Replace(" ",".") + sms.S3 + dgShow.Rows.Count.ToString() + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + sms.S13;
-                        }
-                        else
-                            msg = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + dgShow.Rows.Count.ToString() + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + dtNewService.Text + sms.S13;
                         //---------
                         string pattern = "http://login.parsgreen.com/UrlService/sendSMS.ashx?from=" + sign.NumberSms + "&to=" + txtPhone.Text + "&text=" + msg + "&signature=" + sign.Signature;
-
+                        //return;
                         //MessageBox.Show(pattern);
                         System.IO.Stream st = null;
                         System.IO.StreamReader sr = null;
@@ -640,39 +686,41 @@ namespace Laundry
                         message += dgShow.Rows[i].Cells[1].Value.ToString() + dgShow.Rows[i].Cells[3].Value.ToString() + "،";
                     }
 
-                    string message2 = "";
-                    if (string.IsNullOrEmpty(sms.S12))
-                    {
-                        message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + sms.S13;
-                    }
-                    else
-                        message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + dtNewService.Text + sms.S13;
-
-                    //MessageBox.Show("name " + message2.Length.ToString());
-
+                    string message2 = sms.S1;
+                    message2 = message2.Insert(message2.LastIndexOf("%%"), dtNewService.Text);
+                    message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                    //---
+                    message2 = message2.Insert(message2.LastIndexOf("%%"), lblCodeRahgiri.Text);
+                    message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                    //---
+                    message2 = message2.Insert(message2.LastIndexOf("%%"), message.Replace(" ", "."));
+                    message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                    //---
+                    message2 = message2.Insert(message2.LastIndexOf("%%"), txtName.Text.Replace(" ", "."));
+                    message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
                     //--------
                     //PARSGREEN.API.SMS.Send.SendSMS info = new PARSGREEN.API.SMS.Send.SendSMS();
                     //int part = 0;
                     //bool uniCode = true;
                     //double doIt=info.MessageInfo(sign.Signature, message2, ref part, ref uniCode);
 
-                        //*********
-                        if (message2.Length > 132)
-                        {
-                            message = dgShow.Rows.Count.ToString();
-                            if (string.IsNullOrEmpty(sms.S12))
-                            {
-                                message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + sms.S13;
-                            }
-                            else
-                                message2 = sms.S1 + txtName.Text.Replace(" ", ".") + sms.S3 + message.Replace(" ", ".") + sms.S8 + lblCodeRahgiri.Text + sms.S10 + setName.CommercialName + dtNewService.Text + sms.S13;
-
-                            //MessageBox.Show("sefaresh " + message2.Length.ToString());
-                            lblError.Text = "فرمت خیلی فشرده پیامک";
-
-                        }
-
-                    
+                    //*********
+                    if (message2.Length > 132)
+                    {
+                        message2 = sms.S1;
+                        message = dgShow.Rows.Count.ToString();
+                        message2 = message2.Insert(message2.LastIndexOf("%%"), dtNewService.Text);
+                        message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                        //---
+                        message2 = message2.Insert(message2.LastIndexOf("%%"), lblCodeRahgiri.Text);
+                        message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                        //---
+                        message2 = message2.Insert(message2.LastIndexOf("%%"), message.Replace(" ", "."));
+                        message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                        //---
+                        message2 = message2.Insert(message2.LastIndexOf("%%"), txtName.Text.Replace(" ", "."));
+                        message2 = message2.Remove(message2.LastIndexOf("%%"), 2);
+                    }
 
                     ErsalNashode En = new ErsalNashode();
                     En.Name = txtName.Text;
@@ -1496,11 +1544,23 @@ namespace Laundry
                     MessageBox.Show("برای ارسال پیامک ابتدااز بخش تنظیمات پیامک نام تجاری را ثبت کنید", "تنظیمات", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
-                if (string.IsNullOrEmpty(sms.W8))
-                   message = sms.W1 + txtName.Text.Replace(" ",".") + sms.W3 + setName.CommercialName + sms.W5 + sms.W6 + txtEshterak.Text + sms.W9;
-                else
-                    message = sms.W1 + txtName.Text.Replace(" ",".") + sms.W3 + setName.CommercialName + sms.W5 + sms.W6 + txtEshterak.Text + " " + dtNewService.Text + sms.W9;
+                message = sms.W1;
+                //message.LastIndexOf("%%");
 
+                //MessageBox.Show(message.LastIndexOf("%%").ToString());
+                message = message.Insert(message.LastIndexOf("%%"), dtNewService.Text);
+                message = message.Remove(message.LastIndexOf("%%"), 2);
+                //MessageBox.Show(message);
+                //-----
+
+                //MessageBox.Show(message.LastIndexOf("%%").ToString());
+                message = message.Insert(message.LastIndexOf("%%"), txtEshterak.Text);
+                message = message.Remove(message.LastIndexOf("%%"), 2);
+                //MessageBox.Show(message);
+                //----
+                //MessageBox.Show(message.LastIndexOf("%%").ToString());
+                message = message.Insert(message.LastIndexOf("%%"), txtName.Text.Replace(" ","."));
+                message = message.Remove(message.LastIndexOf("%%"), 2);
                 //MessageBox.Show(message);
                 //return;
 
@@ -1526,65 +1586,64 @@ namespace Laundry
                 {
                     try
                     {
-                        //Ping ping = new Ping();
-                        //PingReply pingStatus = ping.Send("google.com");
+                        Ping ping = new Ping();
+                        PingReply pingStatus = ping.Send("google.com");
 
-                        //if (pingStatus.Status == IPStatus.Success)
-                        //{
-                        //***********baraye check kardane ertebat
-                        //HttpWebRequest reqCheack = (HttpWebRequest)WebRequest.Create("http://login.parsgreen.com/UrlService/sendSMS.ashx?from=");
-                        //System.Net.WebResponse respCheack = reqCheack.GetResponse();
-                        //***********
+                        if (pingStatus.Status == IPStatus.Success)
+                        {
+                            //***********baraye check kardane ertebat
+                            //***********
+                            //***********************
+                            //string value = "";
+                            //    PARSGREEN.API.SMS.Send.SendSMS send = new PARSGREEN.API.SMS.Send.SendSMS();
+                            //    int result = send.Send(sign.Signature, txtPhone.Text, message, ref value);
+                            //    if (result == 1)
+                            //        MessageBox.Show(message);
+                            //***********************
+                            //System.Web.HttpUtility.HtmlDecode(text);
 
-                        string value = "";
-                            PARSGREEN.API.SMS.Send.SendSMS send = new PARSGREEN.API.SMS.Send.SendSMS();
-                            int result = send.Send(sign.Signature, txtPhone.Text, message, ref value);
-                            if (result == 1)
-                                MessageBox.Show(message);
-                            ////System.Web.HttpUtility.HtmlDecode(text);
+                            string pattern = "http://login.parsgreen.com/UrlService/sendSMS.ashx?from=" + sign.NumberSms + "&to=" + txtPhone.Text + "&text=" + message + "&signature=" + sign.Signature;
 
-                            //string pattern = "http://login.parsgreen.com/UrlService/sendSMS.ashx?from=" + sign.NumberSms + "&to=" + txtPhone.Text + "&text=" + message + "&signature=" + sign.Signature;
+                            //MessageBox.Show(pattern);
+                            System.IO.Stream st = null;
+                            System.IO.StreamReader sr = null;
 
-                            ////MessageBox.Show(pattern);
-                            //System.IO.Stream st = null;
-                            //System.IO.StreamReader sr = null;
+                            HttpWebRequest req = (HttpWebRequest)WebRequest.Create(pattern);
+                            Encoding encode = System.Text.Encoding.UTF8;
 
-                            //HttpWebRequest req = (HttpWebRequest)WebRequest.Create(pattern);
-                            //Encoding encode = System.Text.Encoding.UTF8;
+                            System.Net.WebResponse resp = req.GetResponse();
 
-                            //System.Net.WebResponse resp = req.GetResponse();
-
-                            //st = resp.GetResponseStream();
-                            //sr = new System.IO.StreamReader(st, Encoding.UTF8);
-                            //string result = sr.ReadToEnd().Substring(12, 1);
-                            //if (result == "0")
-                            //    MessageBox.Show(message);
-                            ////MessageBox.Show(sr.ReadToEnd()); //Get_Return_Message_Sms(int.Parse(result);
-                            //lblError.Text = Get_Return_Message_Sms(int.Parse(result));
-                            //sr.Close();
-                            //resp.Close();
+                            st = resp.GetResponseStream();
+                            sr = new System.IO.StreamReader(st, Encoding.UTF8);
+                            string result = sr.ReadToEnd().Substring(12, 1);
+                            if (result == "0")
+                                MessageBox.Show(message,"ارسال شده");
+                            //MessageBox.Show(sr.ReadToEnd()); //Get_Return_Message_Sms(int.Parse(result);
+                            lblError.Text = Get_Return_Message_Sms(int.Parse(result));
+                            sr.Close();
+                            resp.Close();
                             PARSGREEN.API.SMS.Profile.ProfileService p = new PARSGREEN.API.SMS.Profile.ProfileService();
                             double creidet = p.GetCredit(sign.Signature);
                             var check = context.WhiteSms.FirstOrDefault();
                             double warning = double.Parse(check.R10);
                             if (creidet < warning)
                                 MessageBox.Show("اعتبار پنل پیامک کمتر از"+ warning+" ریال است", "پنل پیامک", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                            if (result != 1)
-                            {
-                                ErsalNashode En = new ErsalNashode();
-                                En.Name = txtName.Text;
-                                En.Phone = txtPhone.Text;
-                                En.Message = message;
-                                En.Date = int.Parse(dtNewService.Text.Replace("/", ""));
-                                En.Time = DateTime.Now.ToLongTimeString();
-                                En.CodeRahgiri = lblCodeRahgiri.Text;
-                                context.ErsalNashode.Add(En);
-                                context.SaveChanges();
-                                //MessageBox.Show("اینترنت وصل نیست", "اینترنت", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                                MessageBox.Show("اینترنت وصل نیست،در موارد ارسال نشده ذخیره شد", " وصل نیست اینترنت", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                            //if (result != 1)
+                            //{
+                            //    ErsalNashode En = new ErsalNashode();
+                            //    En.Name = txtName.Text;
+                            //    En.Phone = txtPhone.Text;
+                            //    En.Message = message;
+                            //    En.Date = int.Parse(dtNewService.Text.Replace("/", ""));
+                            //    En.Time = DateTime.Now.ToLongTimeString();
+                            //    En.CodeRahgiri = lblCodeRahgiri.Text;
+                            //    context.ErsalNashode.Add(En);
+                            //    context.SaveChanges();
+                            //    MessageBox.Show("اینترنت وصل نیست", "اینترنت", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                            //    MessageBox.Show("اینترنت وصل نیست،در موارد ارسال نشده ذخیره شد", " وصل نیست اینترنت", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
-                            }
-                        //}
+                            //}
+                        }
                     }
                     catch (Exception)
                     {
