@@ -20,6 +20,8 @@ namespace Laundry
         {
             InitializeComponent();
         }
+        int key = 0;
+
         public string Get_Serial_Hard() // gereftan serial hard
         {
             ManagementObjectSearcher searcher = new ManagementObjectSearcher("SELECT * FROM Win32_DiskDrive");
@@ -31,199 +33,6 @@ namespace Laundry
             }
             return hard;
         }
-        public void Welcome_white_Sms()
-        {
-            string darsad = "";
-            string t1 = txt10.Text;
-            //if (txt11.Text == "")
-            //    txt11.Text = "0";
-            //int x = int.Parse(txt11.Text);
-            //for (int i = 0; i < x; i++)
-            //    darsad = darsad + "%";
-            if (chx9.Checked)
-                darsad = "%% ";
-
-            string t2 = darsad;
-            string t3 = txt12.Text;
-            string t4 = txt13.Text;
-            string t5 = txt14.Text;
-            string t6 = txt15.Text;
-            string compelete = "";
-            compelete = t1 + t2 + t3 + t4 + t5 + t6 + "%%";
-            if (chxDate2.Checked == true)
-                compelete = compelete + " تاریخ " + "%%";
-            //compelete =compelete + "." + "%%%%%%%%%%";
-            compelete = compelete + txtWel16.Text;
-            txtTotall2.Text = compelete;
-            lblTotall2.Text = txtTotall2.TextLength.ToString();
-        }
-        //*************
-        public void Ready_white_Sms()
-        {
-            //string temp = "";
-            //if (txt2.Text == "")
-            //    txt2.Text = "0";
-            //int y = int.Parse(txt2.Text);
-            //for (int i = 0; i < y; i++)
-            //    temp = temp + "%";
-            //------
-            string temp = "";
-            if (chx6.Checked)
-                temp = "%% ";
-            //-----
-            //string s1 = temp;
-
-            //-------------
-            //string temp2 = "";
-            //if (txt4.Text == "")
-            //    txt4.Text = "0";
-            //int z = int.Parse(txt4.Text);
-            //for (int i = 0; i < z; i++)
-            //    temp2 = temp2 + "%";
-
-            //string s2 = temp2;
-
-            string temp2 = "";
-            if (chx7.Checked)
-                temp2 = "%%";
-            //-------------
-            //string temp3 = "";
-            //if (txt6.Text == "")
-            //    txt6.Text = "0";
-            //int q = int.Parse(txt6.Text);
-            //for (int i = 0; i < q; i++)
-            //    temp3 = temp3 + "%";
-
-            //string s3 = temp3;
-
-            string temp3 = "";
-            if (chx8.Checked)
-                temp3 = "%%";
-
-            //-------------
-
-            //-------------
-            string t1 = txt1.Text;
-            string t2 = temp;
-            string t3 = txt3.Text;
-            string t4 = temp2;
-            string t5 = txt5.Text;
-            string t6 = temp3;
-            string t7 = txt7.Text;
-            string t8 = txt8.Text;
-            string t9 = txt9.Text;
-            
-            string compelete;
-            compelete = t1 + t2 + t3 + t4 + t5 + t6 + t7 + t8 + t9;
-            if (chxDate1.Checked == true)
-                compelete = compelete + " تاریخ " + "%%";
-            string t11 = txtReadyt10.Text;
-            compelete = compelete + t11;
-            //compelete = compelete + "." + "%%%%%%%%%%";
-            txtTotall1.Text = compelete;
-            lblTotall1.Text = txtTotall1.TextLength.ToString();
-        }
-        //*************
-        public void Delivery_white_Sms()
-        {
-            //string temp = "";
-            //if (txt17.Text == "")
-            //    txt17.Text = "0";
-            //int y = int.Parse(txt17.Text);
-            //for (int i = 0; i < y; i++)
-            //    temp = temp + "%";
-
-            //string s1 = temp;
-
-            string temp = "";
-            if (chx10.Checked)
-                temp = "%% ";
-            //-------------
-            //string temp2 = "";
-            //if (txt19.Text == "")
-            //    txt19.Text = "0";
-            //int z = int.Parse(txt19.Text);
-            //for (int i = 0; i < z; i++)
-            //    temp2 = temp2 + "%";
-
-            //string s2 = temp2;
-
-            string temp2 = "";
-            if (chx11.Checked)
-                temp2 = "%%";
-            //-------------
-            //string temp3 = "";
-            //if (txt21.Text == "")
-            //    txt21.Text = "0";
-            //int q = int.Parse(txt21.Text);
-            //for (int i = 0; i < q; i++)
-            //    temp3 = temp3 + "%";
-
-            //string s3 = temp3;
-
-            string temp3 = "";
-            if (chx12.Checked)
-                temp3 = "%%";
-            //-------------
-            string t1 = txt16.Text;
-            string t2 = temp;
-            string t3 = txt18.Text;
-            string t4 = temp2;
-            string t5 = txt20.Text;
-            string t6 = temp3;
-            string t7 = txt22.Text;
-            string t8 = txt23.Text;
-            string t9 = txt24.Text;
-            string compelete;
-            compelete = t1 + t2 + t3 + t4 + t5 + t6 + t7 + t8 + t9;
-            if (chxDate3.Checked == true)
-                compelete = compelete + " تاریخ " + "%%";
-            //compelete = compelete + "." + "%%%%%%%%%%";
-            compelete = compelete + txtDel25.Text;
-            txtTotall3.Text = compelete;
-            lblTotall3.Text = txtTotall1.TextLength.ToString();
-        }
-        //*************
-        public void Order_white_Sms()
-        {
-            //int i = 0;
-            string t1 = txt25.Text;
-            string temp = "";
-
-            if (chx13.Checked)
-                temp = " %% ";
-            //---------
-            string temp2 = "";
-            if (chx1.Checked)
-                temp2 = " %% ";
-
-            //---------
-
-            string temp7 = "";
-            string t7 = txt37.Text;
-
-            //for (i = 0; i < int.Parse(txt38.Text); i++)
-            //    temp7 = temp7 + "%";
-
-            if (chx14.Checked)
-                temp7 = "%% ";
-            //---------
-            string t8 = txt39.Text;
-            //---------
-            string t9 = txt40.Text;
-            //---------
-            string t10 = txt41.Text;
-            //-------
-            string compelete = t1 + temp + t7 + temp2 + t8 + temp7 + t9 + t10;
-            if (chxDate4.Checked == true)
-                compelete = compelete + " تاریخ " + "%%";
-            //compelete = compelete +"."+ "%%%%%%%%%%";
-            compelete = compelete + txt42.Text;
-            txtTotall4.Text = compelete;
-            lblTotall4.Text = txtTotall4.TextLength.ToString();
-            
-        }
-        //**************
         private void Enter_Number(object sender, KeyPressEventArgs e)
         {
             if (!(char.IsDigit(e.KeyChar) || char.IsControl(e.KeyChar)))
@@ -371,7 +180,7 @@ namespace Laundry
                         serial = ser.Serial1.ToString();
                     //if (serial.Length > 15)
                     //    serial = serial.Substring(0, 15);
-                    txtSerial.Text = IDGenerator.GetCPUId()+"/"+ser.CountOpen+ser.Date;
+                    txtSerial.Text = IDGenerator.GetCPUId() + "/" + ser.CountOpen + ser.Date;
                     //----------
                     var register = context.Reg.FirstOrDefault();
                     if (register.Serial1 == IDGenerator.GetOpenLock(IDGenerator.GetCPUId()))
@@ -437,11 +246,6 @@ namespace Laundry
                         if (setting.DeliverySms == "false")
                             chxDeliverySms.Checked = false;
                         //----
-                        if (setting.InviteClubeSms == "true")
-                            chxInviteCluoeSms.Checked = true;
-                        if (setting.InviteClubeSms == "false")
-                            chxInviteCluoeSms.Checked = false;
-                        //----
                         if (setting.BirthDaySms == "true")
                             chxBirthDaySms.Checked = true;
                         if (setting.BirthDaySms == "false")
@@ -470,206 +274,28 @@ namespace Laundry
                         set.BirthDaySms = "true";
                         chxBirthDaySms.Checked = true;
 
-                        set.InviteClubeSms = "true";
-                        chxInviteCluoeSms.Checked = true;
+
 
                         context.Setting.Add(set);
                         context.SaveChanges();
                     }
                 }
-                //----------
-                //************ white sms welcome
-                //Welcome_white_Sms();
+                //************ white sms
                 using (var context = new kitchenEntities())
                 {
-                    var smsWlecome = context.WhiteSms.Where(c =>c.W1 !=null && c.W1 !="").FirstOrDefault();
-                    txtWarningCreadit.Text = smsWlecome.R10;
-                    //************
-                    txt10.Text = smsWlecome.W1;
-                    txt12.Text = smsWlecome.W3;
-                    txt13.Text = txtName.Text;
-                    txt14.Text = smsWlecome.W5;
-                    txt15.Text = smsWlecome.W6;
-                    txtWel16.Text = smsWlecome.W9;
-                    string date = "";
-                    if (smsWlecome.W8 != "")
-                    {
-                        date = " تاریخ " + "%%";
-                        chxDate2.Checked = true;
-                    }
-                    string w2 = "";
-                    if(smsWlecome.W2 !="")
-                    {
-                        w2 = smsWlecome.W2;
-                        chx9.Checked = true;
-                    }
-                    txtTotall2.Text = txt10.Text + w2 + txt12.Text + txt13.Text + txt14.Text + txt15.Text + date + txtWel16.Text;
-                }
-                lbl10.Text = txt10.TextLength.ToString();
-                lbl12.Text = txt12.TextLength.ToString();
-                //txt13.Text = txtName.Text;
-                lbl13.Text = txt13.TextLength.ToString();
-                lbl14.Text = txt14.TextLength.ToString();
-                lbl15.Text = txt15.TextLength.ToString();
-                //**************
-                //**************white sms Ready
-                //Ready_white_Sms();
-                using (var context = new kitchenEntities())
-                {
-                    var smsWlecome = context.WhiteSms.Where(c => c.R1 != null && c.R1 != "").FirstOrDefault();
-                    txt1.Text = smsWlecome.R1;
-                    txt3.Text = smsWlecome.R3;
-                    txt5.Text = smsWlecome.R5;
-                    txt7.Text = smsWlecome.R7;
-                    txt8.Text = smsWlecome.R8;
-                    txt9.Text = txtName.Text;
-                    txtReadyt10.Text = smsWlecome.R11;
-                    string date = "";
-                    if (smsWlecome.R10 != "")
-                    {
-                        date = " تاریخ " + "%%";
-                        chxDate1.Checked = true;
-                    }
+                    var welcome = context.WhiteSms.Where(c => c.W1 != null || c.W1 != "").FirstOrDefault();
+                    txtWelcome.Text = welcome.W1;
                     //-----
-                    string R2 = "";
-                    if (smsWlecome.R2 != "")
-                    {
-                        R2 = smsWlecome.R2;
-                        chx6.Checked = true;
-                    }
+                    var accept = context.WhiteSms.Where(c => c.S1 != null || c.S1 != "").FirstOrDefault();
+                    txtAccept.Text = accept.S1;
                     //-----
-                    string R4 = "";
-                    if (smsWlecome.R4 != "")
-                    {
-                        R4 = smsWlecome.R4;
-                        chx7.Checked = true;
-                    }
+                    var ready = context.WhiteSms.Where(c => c.R1 != null || c.R1 != "").FirstOrDefault();
+                    txtReady.Text = ready.R1;
                     //-----
-                    string R6 = "";
-                    if (smsWlecome.R6 != "")
-                    {
-                        R6 = smsWlecome.R6;
-                        chx8.Checked = true;
-                    }
-                    txtTotall1.Text = txt1.Text + R2 + txt3.Text + R4 + txt5.Text + R6 + txt7.Text + txt8.Text + txt9.Text + date + txtReadyt10.Text;
-                }
-                    //-------------
-                lbl1.Text = txt1.TextLength.ToString();
-                lbl3.Text = txt3.TextLength.ToString();
-                lbl5.Text = txt5.TextLength.ToString();
-                lbl7.Text = txt7.TextLength.ToString();
-                lbl8.Text = txt8.TextLength.ToString();
-                //txt9.Text = txtName.Text;
-                lbl9.Text = txt9.TextLength.ToString();
-                label27.Text = txtReadyt10.TextLength.ToString();
+                    var delivery = context.WhiteSms.Where(c => c.D1 != null || c.D1 != "").FirstOrDefault();
+                    txtDelivery.Text = delivery.D1;
 
-                //****************deliveri white sms
-                using (var context = new kitchenEntities())
-                {
-                    var smsWlecome = context.WhiteSms.Where(c => c.D1 != null && c.D1 != "").FirstOrDefault();
-                    txt16.Text = smsWlecome.D1;
-                    txt18.Text = smsWlecome.D3;
-                    txt20.Text = smsWlecome.D5;
-                    txt22.Text = smsWlecome.D7;
-                    txt23.Text = smsWlecome.D8;
-                    txt24.Text = txtName.Text;
-                    txtDel25.Text = smsWlecome.D11;
-                    string date = "";
-                    if (smsWlecome.D10 != "")
-                    {
-                        date = " تاریخ " + "%%";
-                        chxDate3.Checked = true;
-                    }
-                    //-----
-                    string D2 = "";
-                    if (smsWlecome.D2 != "")
-                    {
-                        D2 = smsWlecome.D2;
-                        chx10.Checked = true;
-                    }
-                    //-----
-                    string D4 = "";
-                    if (smsWlecome.D4 != "")
-                    {
-                        D4 = smsWlecome.D4;
-                        chx11.Checked = true;
-                    }
-                    //-----
-                    string D6 = "";
-                    if (smsWlecome.D6 != "")
-                    {
-                        D6 = smsWlecome.D6;
-                        chx12.Checked = true;
-                    }
-                    txtTotall3.Text = txt16.Text + D2 + txt18.Text + D4 + txt20.Text + D6 + txt22.Text + txt23.Text + txt24.Text + date + txtDel25.Text;
                 }
-                lbl16.Text = txt16.TextLength.ToString();
-                lbl18.Text = txt18.TextLength.ToString();
-                lbl20.Text = txt20.TextLength.ToString();
-                lbl22.Text = txt22.TextLength.ToString();
-                lbl23.Text = txt23.TextLength.ToString();
-                //txt24.Text = txtName.Text;
-                lbl24.Text = txt24.TextLength.ToString();
-                label28.Text = txtDel25.TextLength.ToString();
-                //---------------
-                //*************order white sms
-                //Order_white_Sms();
-
-                using (var context = new kitchenEntities())
-                {
-                    var smsWlecome = context.WhiteSms.Where(c => c.S1 != null && c.S1 != "").FirstOrDefault();
-                    txt25.Text = smsWlecome.S1;
-                    txt37.Text = smsWlecome.S3;
-                    txt39.Text = smsWlecome.S8;
-                    txt40.Text = smsWlecome.S10;
-                    txt41.Text = txtName.Text;
-                    txt42.Text = smsWlecome.S13;
-                    string date = "";
-                    if (smsWlecome.S12 != "")
-                    {
-                        date = " تاریخ " + "%%";
-                        chxDate4.Checked = true;
-                    }
-                    //-----
-                    string S2 = "";
-                    if (smsWlecome.S2 != "")
-                    {
-                        S2 = smsWlecome.S2;
-                        chx13.Checked = true;
-                    }
-                    //-----
-                    string S3 = "";
-                    if (smsWlecome.S3 != "")
-                    {
-                        S3 = smsWlecome.S3;
-                        chx1.Checked = true;
-                    }
-                    //-----
-                    string S9 = "";
-                    if (smsWlecome.S9 != "")
-                    {
-                        S9 = smsWlecome.S9;
-                        chx14.Checked = true;
-                    }
-                    string S7 = "";
-                    if (smsWlecome.S7 != "")
-                    {
-                        S7 = smsWlecome.S7;
-                        chx1.Checked = true;
-                    }
-                    txtTotall4.Text = txt25.Text + S2 + txt37.Text + S7 + txt39.Text + S9 + txt40.Text + txt41.Text + date + txt42.Text;
-                    //txtTotall4.Text = txt25.Text + S2 + S3+S7 + S8 + txt39.Text + txt40.Text + txt41.Text + date + txt42.Text;
-                }
-                lbl25.Text = txt25.TextLength.ToString();
-                lbl37.Text = txt37.TextLength.ToString();
-                lbl39.Text = txt39.TextLength.ToString();
-                lbl40.Text = txt40.TextLength.ToString();
-                txt41.Text = txtName.Text;
-                lbl41.Text = txt41.TextLength.ToString();
-                label25.Text = txt42.Text.Length.ToString();
-                lblTotall4.Text = txtTotall4.TextLength.ToString();
-
-
             }
             catch (Exception ex)
             {
@@ -1109,7 +735,7 @@ namespace Laundry
             }
             //--baraye inke chek konad mobaile vared shode ba 09 shoroo mishavad ya na
             bool checkMobile = txtMobile.Text.StartsWith("09");
-            if (checkMobile==false)
+            if (checkMobile == false)
             {
                 txtMobile.BackColor = Color.LightPink;
                 txtMobile.Focus();
@@ -1177,415 +803,6 @@ namespace Laundry
             }
         }
 
-        private void lblSomeCom2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label15_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txt1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txt2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtNameLaundry_TextChanged(object sender, EventArgs e)
-        {
-            lbl13.Text = txt13.TextLength.ToString();
-            //--------
-            Welcome_white_Sms();
-
-        }
-
-        private void txt4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txt5_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txt6_TextChanged(object sender, EventArgs e)
-        {
-
-
-        }
-
-        private void txtTotall_TextChanged(object sender, EventArgs e)
-        {
-            lblTotall2.Text = txtTotall2.TextLength.ToString();
-        }
-
-        private void txt10_TextChanged(object sender, EventArgs e)
-        {
-            lbl10.Text = txt10.TextLength.ToString();
-            //----------
-            Welcome_white_Sms();
-        }
-
-        private void txt11_TextChanged(object sender, EventArgs e)
-        {
-            Welcome_white_Sms();
-            //----------
-
-        }
-
-        private void txt12_TextChanged(object sender, EventArgs e)
-        {
-            lbl12.Text = txt12.TextLength.ToString();
-            //--------
-            Welcome_white_Sms();
-        }
-
-        private void txt13_TextChanged(object sender, EventArgs e)
-        {
-            lbl13.Text = txt13.TextLength.ToString();
-            //--------
-            Welcome_white_Sms();
-        }
-
-        private void txt14_TextChanged(object sender, EventArgs e)
-        {
-            lbl14.Text = txt14.TextLength.ToString();
-            //--------
-            Welcome_white_Sms();
-        }
-
-        private void txt15_TextChanged(object sender, EventArgs e)
-        {
-            lbl15.Text = txt15.TextLength.ToString();
-            //---------
-            Welcome_white_Sms();
-        }
-
-        private void txtTotall2_TextChanged(object sender, EventArgs e)
-        {
-            lblTotall2.Text = txt12.TextLength.ToString();
-            //--------
-            Welcome_white_Sms();
-        }
-
-        private void txt1_TextChanged_1(object sender, EventArgs e)
-        {
-            lbl1.Text = txt1.TextLength.ToString();
-            //------------
-            Ready_white_Sms();
-        }
-
-        private void txt2_TextChanged_1(object sender, EventArgs e)
-        {
-            Ready_white_Sms();
-        }
-
-        private void txt3_TextChanged(object sender, EventArgs e)
-        {
-            lbl3.Text = txt3.TextLength.ToString();
-            //------------
-            Ready_white_Sms();
-        }
-
-        private void txt4_TextChanged_1(object sender, EventArgs e)
-        {
-            lbl1.Text = txt1.TextLength.ToString();
-            //------------
-            Ready_white_Sms();
-        }
-
-        private void txt5_TextChanged_1(object sender, EventArgs e)
-        {
-            lbl5.Text = txt5.TextLength.ToString();
-            //------------
-            Ready_white_Sms();
-        }
-
-        private void txt6_TextChanged_1(object sender, EventArgs e)
-        {
-            Ready_white_Sms();
-        }
-
-        private void txt7_TextChanged(object sender, EventArgs e)
-        {
-            lbl7.Text = txt7.TextLength.ToString();
-            //------------
-            Ready_white_Sms();
-        }
-
-        private void txt8_TextChanged(object sender, EventArgs e)
-        {
-            lbl8.Text = txt8.TextLength.ToString();
-            //------------
-            Ready_white_Sms();
-        }
-
-        private void txt9_TextChanged(object sender, EventArgs e)
-        {
-            lbl9.Text = txt9.TextLength.ToString();
-            //------------
-            Ready_white_Sms();
-        }
-        private void txtTotall1_TextChanged(object sender, EventArgs e)
-        {
-            lblTotall1.Text = txtTotall1.TextLength.ToString();
-        }
-
-        private void chxDate2_CheckedChanged(object sender, EventArgs e)
-        {
-            Welcome_white_Sms();
-        }
-
-        private void chxDate1_CheckedChanged(object sender, EventArgs e)
-        {
-            Ready_white_Sms();
-        }
-
-        private void txt16_TextChanged(object sender, EventArgs e)
-        {
-            lbl16.Text = txt16.TextLength.ToString();
-            //--------
-            Delivery_white_Sms();
-        }
-
-        private void txt17_TextChanged(object sender, EventArgs e)
-        {
-            Delivery_white_Sms();
-        }
-
-        private void txt18_TextChanged(object sender, EventArgs e)
-        {
-            lbl18.Text = txt18.TextLength.ToString();
-            //--------
-            Delivery_white_Sms();
-        }
-
-        private void txt19_TextChanged(object sender, EventArgs e)
-        {
-            Delivery_white_Sms();
-        }
-
-        private void txt20_TextChanged(object sender, EventArgs e)
-        {
-            lbl20.Text = txt20.TextLength.ToString();
-            //--------
-            Delivery_white_Sms();
-        }
-
-        private void txt21_TextChanged(object sender, EventArgs e)
-        {
-            Delivery_white_Sms();
-        }
-
-        private void txt22_TextChanged(object sender, EventArgs e)
-        {
-            lbl22.Text = txt22.TextLength.ToString();
-            //--------
-            Delivery_white_Sms();
-        }
-
-        private void txt23_TextChanged(object sender, EventArgs e)
-        {
-            lbl23.Text = txt23.TextLength.ToString();
-            //--------
-            Delivery_white_Sms();
-        }
-
-        private void txt24_TextChanged(object sender, EventArgs e)
-        {
-            lbl24.Text = txt24.TextLength.ToString();
-            //--------
-            Delivery_white_Sms();
-        }
-
-        private void chxDate3_CheckedChanged(object sender, EventArgs e)
-        {
-            Delivery_white_Sms();
-        }
-
-        private void txtTotall3_TextChanged(object sender, EventArgs e)
-        {
-            lblTotall3.Text = txtTotall3.TextLength.ToString();
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            lbl37.Text = txt37.TextLength.ToString();
-            Order_white_Sms();
-
-        }
-
-        private void tabOrderWhiteSms_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void chx1_CheckedChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-        }
-
-        private void txt27_TextChanged(object sender, EventArgs e)
-        {
-           
-        }
-
-        private void txt25_TextChanged(object sender, EventArgs e)
-        {
-            lbl25.Text = txt25.TextLength.ToString();
-            Order_white_Sms();
-
-        }
-
-        private void txt26_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void txt28_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void txt29_TextChanged(object sender, EventArgs e)
-        {
-
-
-        }
-
-        private void txt30_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void chx2_CheckedChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void chx3_CheckedChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void txt31_TextChanged(object sender, EventArgs e)
-        {
-           
-
-        }
-
-        private void txt32_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void chx4_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void txt33_TextChanged(object sender, EventArgs e)
-        {
-           
-
-        }
-
-        private void txt34_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void chx5_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void txt36_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void txt38_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void txt39_TextChanged(object sender, EventArgs e)
-        {
-            lbl39.Text = txt39.TextLength.ToString();
-            Order_white_Sms();
-
-        }
-
-        private void txt40_TextChanged(object sender, EventArgs e)
-        {
-            lbl40.Text = txt40.TextLength.ToString();
-            Order_white_Sms();
-
-        }
-
-        private void txt41_TextChanged(object sender, EventArgs e)
-        {
-            lbl41.Text = txt41.TextLength.ToString();
-            Order_white_Sms();
-
-        }
-
-        private void chxDate4_TextChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void txtTotall4_TextChanged(object sender, EventArgs e)
-        {
-            lblTotall4.Text = txtTotall4.TextLength.ToString();
-            //Order_white_Sms();
-
-        }
-
-        private void chx3_TextChanged(object sender, EventArgs e)
-        {
-            lblTotall4.Text = txtTotall4.TextLength.ToString();
-            Order_white_Sms();
-
-        }
-
-        private void chx4_CheckedChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void chx5_CheckedChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
-
-        private void chxDate4_CheckedChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-
-        }
 
         private void txtMobile_KeyPress(object sender, KeyPressEventArgs e)
         {
@@ -1677,594 +894,6 @@ namespace Laundry
 
         }
 
-        private void btnSaveEdit2_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                using (var context = new kitchenEntities())
-                {
-                    var exist = context.WhiteSms.Where(c => c.W1 != null && c.W1 != "").FirstOrDefault();
-                    if (exist != null)
-                    {
-                        string darsad = "";
-                        string t1 = txt10.Text;
-                        //if (txt11.Text == "")
-                        //    txt11.Text = "0";
-                        //int x = int.Parse(txt11.Text);
-                        //for (int i = 0; i < x; i++)
-                        //    darsad = darsad + "%";
-
-                        if (chx9.Checked)
-                            darsad = "%%";
-
-                        string t2 = darsad;
-                        string t3 = txt12.Text;
-                        string t4 = txt13.Text;
-                        string t5 = txt14.Text;
-                        string t6 = txt15.Text;
-                        string t7 = "%%"+".";
-                        string compelete = "";
-                        if (chxDate2.Checked == true)
-                            compelete = compelete + " تاریخ " + "%%";
-                        else
-                            exist.W8 = "";
-                        //compelete = compelete + "." + "%%%%%%%%%%";
-                        //------
-                        exist.W1 = t1;
-                        exist.W2 = t2;
-                        exist.W3 = t3;
-                        exist.W4 = t4;
-                        exist.W5 = t5;
-                        exist.W6 = t6;
-                        exist.W7 = t7;
-                        exist.W8 = compelete;
-                        exist.W9 = txtWel16.Text;
-
-                    }
-                    else
-                    {
-                        WhiteSms st = new WhiteSms();
-                        string darsad = "";
-                        string t1 = txt10.Text;
-                        if (txt11.Text == "")
-                            txt11.Text = "0";
-                        int x = int.Parse(txt11.Text);
-                        for (int i = 0; i < x; i++)
-                            darsad = darsad + "%";
-
-                        string t2 = darsad;
-                        string t3 = txt12.Text;
-                        string t4 = txt13.Text;
-                        string t5 = txt14.Text;
-                        string t6 = txt15.Text;
-                        string t7= "%%%%%";
-                        string compelete = "";
-                        compelete = compelete + " تاریخ " + "%%";
-                        //compelete = compelete + "." + "%%%%%%%%%%";
-                        //-----
-                        st.W1 = t1;
-                        st.W2 = t2;
-                        st.W3 = t3;
-                        st.W4 = t4;
-                        st.W5 = t5;
-                        st.W6 = t6;
-                        st.W7 = t7;
-                        st.W8 = compelete;
-                        st.W9 = txtWel16.Text;
-                        context.WhiteSms.Add(st);
-                        
-                    }
-                    context.SaveChanges();
-                }
-            }
-            catch (Exception ex)
-            {
-
-                MessageBox.Show(ex.Message);
-            }
-        }
-
-        private void btnSaveEdit4_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                using (var context = new kitchenEntities())
-                {
-                    var exist = context.WhiteSms.Where(c => c.S1 != null && c.S1 != "").FirstOrDefault();
-                    if (exist != null)
-                    {
-                        //int i = 0;
-                        string t1 = txt25.Text;
-                        string temp = "";
-
-                        if (chx13.Checked)
-                            temp = " %% ";
-                        //---------
-                        string temp2 = "";
-                        if (chx1.Checked)
-                            temp2 = " %% ";
-
-                        //---------
-
-                        
-                        string t7 = txt37.Text;
-
-                        //for (i = 0; i < int.Parse(txt38.Text); i++)
-                        //    temp7 = temp7 + "%";
-                        string temp7 = "";
-                        if (chx14.Checked)
-                            temp7 = "%% ";
-                        //---------
-                        string t8 = txt39.Text;
-                        //---------
-                        string t9 = txt40.Text;
-                        //---------
-                        string t10 = txt41.Text;
-                        //-------
-                        string compelete = t1 + temp + t7 + temp2 + t8 + temp7 + t9 + t10;
-                        string Date = "";
-                        if (chxDate4.Checked == true)
-                        {
-                             Date = " تاریخ " + "%%";
-                            compelete=compelete + Date;
-                        }
-                        compelete = compelete + txt42.Text;
-                        //-------
-                        //string compelete = t1 + temp + t2 + temp2 + t3 + temp3 + t4 + temp4 + t5 +
-                        //    temp5 + t6 + temp6 + t7 + temp7 + t8 + t9 + t10;
-
-                        //compelete = compelete +"."+ "%%%%%%%%%%";
-                        exist.S1 = t1;
-                        exist.S2 = temp;
-                        exist.S3 = t7;
-                        
-                        exist.S7 = temp2;
-                        exist.S8 = t8;
-                        exist.S9 = temp7;
-                        exist.S10 = t9;
-                        exist.S11 = t10;
-                        exist.S12 = Date;
-                        exist.S13 = txt42.Text;
-                        txtTotall4.Text = compelete;
-                        lblTotall4.Text = txtTotall4.TextLength.ToString();
-                    }
-                    else
-                    {
-                        WhiteSms st = new WhiteSms();
-                        //int i = 0;
-                        string t1 = txt25.Text;
-                        string temp = "";
-
-                        if (chx13.Checked)
-                            temp = " %% ";
-                        //---------
-                        string temp2 = "";
-                        if (chx1.Checked)
-                            temp2 = " %% ";
-
-                        //---------
-
-                        string temp7 = "";
-                        string t7 = txt37.Text;
-
-                        //for (i = 0; i < int.Parse(txt38.Text); i++)
-                        //    temp7 = temp7 + "%";
-
-                        if (chx14.Checked)
-                            temp7 = "%% ";
-                        //---------
-                        string t8 = txt39.Text;
-                        //---------
-                        string t9 = txt40.Text;
-                        //---------
-                        string t10 = txt41.Text;
-                        //-------
-                        string compelete = t1 + temp + t7 + temp2 + t8 + temp7 + t9 + t10;
-                        string Date = "";
-                        if (chxDate4.Checked == true)
-                        {
-                            Date = " تاریخ " + "%%";
-                            compelete = compelete + Date;
-                        }
-                        //-------
-                        //string compelete = t1 + temp + t2 + temp2 + t3 + temp3 + t4 + temp4 + t5 +
-                        //    temp5 + t6 + temp6 + t7 + temp7 + t8 + t9 + t10;
-
-                        //compelete = compelete +"."+ "%%%%%%%%%%";
-                        st.S1 = t1;
-                        st.S2 = temp;
-                        st.S3 = t7;
-
-                        st.S7 = temp2;
-                        st.S8 = t8;
-                        st.S9 = temp7;
-                        st.S10 = t9;
-                        st.S11 = t10;
-                        st.S12 = Date;
-                        st.S13 = txt42.Text;
-                        context.WhiteSms.Add(st);
-                        txtTotall4.Text = compelete;
-                        lblTotall4.Text = txtTotall4.TextLength.ToString();
-                    }
-                    context.SaveChanges();
-                }
-            }
-            catch (Exception ex)
-            {
-
-                MessageBox.Show(ex.Message);
-            }
-        }
-
-        private void btnSaveEdit1_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                using (var context = new kitchenEntities())
-                {
-                    var exist = context.WhiteSms.Where(c => c.R1 != null && c.R1 != "").FirstOrDefault();
-                    if (exist != null)
-                    {
-                        //string temp = "";
-                        //if (txt2.Text == "")
-                        //    txt2.Text = "0";
-                        //int y = int.Parse(txt2.Text);
-                        //for (int i = 0; i < y; i++)
-                        //    temp = temp + "%";
-                        //------
-                        string temp = "";
-                        if (chx6.Checked)
-                             temp = "%%";
-                        //-----
-                        //string s1 = temp;
-
-                        //-------------
-                        //string temp2 = "";
-                        //if (txt4.Text == "")
-                        //    txt4.Text = "0";
-                        //int z = int.Parse(txt4.Text);
-                        //for (int i = 0; i < z; i++)
-                        //    temp2 = temp2 + "%";
-
-                        //string s2 = temp2;
-
-                        string temp2 = "";
-                        if (chx7.Checked)
-                            temp2 = "%%";
-                        //-------------
-                        //string temp3 = "";
-                        //if (txt6.Text == "")
-                        //    txt6.Text = "0";
-                        //int q = int.Parse(txt6.Text);
-                        //for (int i = 0; i < q; i++)
-                        //    temp3 = temp3 + "%";
-
-                        //string s3 = temp3;
-
-                        string temp3 = "";
-                        if (chx8.Checked)
-                            temp3 = "%%";
-
-                        //-------------
-                        string t1 = txt1.Text;
-                        string t2 = temp;
-                        string t3 = txt3.Text;
-                        string t4 = temp2;
-                        string t5 = txt5.Text;
-                        string t6 = temp3;
-                        string t7 = txt7.Text;
-                        string t8 = txt8.Text;
-                        string t9 = txt9.Text;
-                        string t11 = txtReadyt10.Text;
-                        string Date="";
-                        if (chxDate1.Checked == true)
-                            Date = " تاریخ " + "%%";
-                        //compelete = compelete + "." + "%%%%%%%%%%";
-                        exist.R1 = t1;
-                        exist.R2 = t2;
-                        exist.R3 = t3;
-                        exist.R4 = t4;
-                        exist.R5 = t5;
-                        exist.R6 = t6;
-                        exist.R7 = t7;
-                        exist.R8 = t8;
-                        exist.R9 = t9;
-                        exist.R10 = Date;
-                        exist.R11 = t11;
-                    }
-                    else
-                    {
-                        WhiteSms st = new WhiteSms();
-                        //string temp = "";
-                        //if (txt2.Text == "")
-                        //    txt2.Text = "0";
-                        //int y = int.Parse(txt2.Text);
-                        //for (int i = 0; i < y; i++)
-                        //    temp = temp + "%";
-
-                        //string s1 = temp;
-
-                        string temp = "";
-                        if (chx6.Checked)
-                            temp = "%%";
-
-                        //-------------
-                        //string temp2 = "";
-                        //if (txt4.Text == "")
-                        //    txt4.Text = "0";
-                        //int z = int.Parse(txt4.Text);
-                        //for (int i = 0; i < z; i++)
-                        //    temp2 = temp2 + "%";
-
-                        //string s2 = temp2;
-
-                        string temp2 = "";
-                        if (chx7.Checked)
-                            temp2 = "%%";
-
-                        //-------------
-                        //string temp3 = "";
-                        //if (txt6.Text == "")
-                        //    txt6.Text = "0";
-                        //int q = int.Parse(txt6.Text);
-                        //for (int i = 0; i < q; i++)
-                        //    temp3 = temp3 + "%";
-
-                        //string s3 = temp3;
-
-                        string temp3 = "";
-                        if (chx8.Checked)
-                            temp3 = "%%";
-
-                        //-------------
-                        string t1 = txt1.Text;
-                        string t2 = temp;
-                        string t3 = txt3.Text;
-                        string t4 = temp2;
-                        string t5 = txt5.Text;
-                        string t6 = temp3;
-                        string t7 = txt7.Text;
-                        string t8 = txt8.Text;
-                        string t9 = txt9.Text;
-                        string t11 = txtReadyt10.Text;
-                        string date = "";
-                        if (chxDate1.Checked == true)
-                            date =" تاریخ " + "%%";
-                        //compelete = compelete + "." + "%%%%%%%%%%";
-
-                        st.R1 = t1;
-                        st.R2 = t2;
-                        st.R3 = t3;
-                        st.R4 = t4;
-                        st.R5 = t5;
-                        st.R6 = t6;
-                        st.R7 = t7;
-                        st.R8 = t8;
-                        st.R9 = t9;
-                        st.R10 = date;
-                        st.R11 = t11;
-                        context.WhiteSms.Add(st);
-
-                    }
-                    context.SaveChanges();
-                }
-            }
-            catch (Exception ex)
-            {
-
-                MessageBox.Show(ex.Message);
-            }
-        }
-
-        private void btnSaveEdit3_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                using (var context = new kitchenEntities())
-                {
-                    var exist = context.WhiteSms.Where(c => c.D1 != null && c.D1 != "").FirstOrDefault();
-                    if (exist != null)
-                    {
-                        //string temp = "";
-                        //if (txt17.Text == "")
-                        //    txt17.Text = "0";
-                        //int y = int.Parse(txt17.Text);
-                        //for (int i = 0; i < y; i++)
-                        //    temp = temp + "%";
-
-                        //string s1 = temp;
-
-                        string temp = "";
-                        if (chx10.Checked)
-                            temp = "%%";
-                        //-------------
-                        //string temp2 = "";
-                        //if (txt19.Text == "")
-                        //    txt19.Text = "0";
-                        //int z = int.Parse(txt19.Text);
-                        //for (int i = 0; i < z; i++)
-                        //    temp2 = temp2 + "%";
-
-                        //string s2 = temp2;
-
-                        string temp2 = "";
-                        if (chx11.Checked)
-                            temp2 = "%%";
-                        //-------------
-                        //string temp3 = "";
-                        //if (txt21.Text == "")
-                        //    txt21.Text = "0";
-                        //int q = int.Parse(txt21.Text);
-                        //for (int i = 0; i < q; i++)
-                        //    temp3 = temp3 + "%";
-
-                        //string s3 = temp3;
-
-                        string temp3 = "";
-                        if (chx12.Checked)
-                            temp3 = "%%";
-                        //-------------
-                        string t1 = txt16.Text;
-                        string t2 = temp;
-                        string t3 = txt18.Text;
-                        string t4 = temp2;
-                        string t5 = txt20.Text;
-                        string t6 = temp3;
-                        string t7 = txt22.Text;
-                        string t8 = txt23.Text;
-                        string t9 = txt24.Text;
-                        string date = "";
-                        string t11 = txtDel25.Text;
-                        if (chxDate3.Checked == true)
-                            date = " تاریخ " + "%%";
-                        //compelete = compelete + "." + "%%%%%%%%%%";
-                        exist.D1 = t1;
-                        exist.D2 = t2;
-                        exist.D3 = t3;
-                        exist.D4 = t4;
-                        exist.D5 = t5;
-                        exist.D6 = t6;
-                        exist.D7 = t7;
-                        exist.D8 = t8;
-                        exist.D9 = t9;
-                        exist.D10 = date;
-                        exist.D11 = t11;
-
-                    }
-                    else
-                    {
-                        WhiteSms st = new WhiteSms();
-                        //string temp = "";
-                        //if (txt17.Text == "")
-                        //    txt17.Text = "0";
-                        //int y = int.Parse(txt17.Text);
-                        //for (int i = 0; i < y; i++)
-                        //    temp = temp + "%";
-
-                        //string s1 = temp;
-
-
-                        string temp = "";
-                        if (chx10.Checked)
-                            temp = "%%";
-                        //-------------
-                        //string temp2 = "";
-                        //if (txt19.Text == "")
-                        //    txt19.Text = "0";
-                        //int z = int.Parse(txt19.Text);
-                        //for (int i = 0; i < z; i++)
-                        //    temp2 = temp2 + "%";
-
-                        //string s2 = temp2;
-
-
-                        string temp2 = "";
-                        if (chx11.Checked)
-                            temp2 = "%%";
-                        //-------------
-                        //string temp3 = "";
-                        //if (txt21.Text == "")
-                        //    txt21.Text = "0";
-                        //int q = int.Parse(txt21.Text);
-                        //for (int i = 0; i < q; i++)
-                        //    temp3 = temp3 + "%";
-
-                        //string s3 = temp3;
-
-                        string temp3 = "";
-                        if (chx12.Checked)
-                            temp3 = "%%";
-
-                        //-------------
-                        string t1 = txt16.Text;
-                        string t2 = temp;
-                        string t3 = txt18.Text;
-                        string t4 = temp2;
-                        string t5 = txt20.Text;
-                        string t6 = temp3;
-                        string t7 = txt22.Text;
-                        string t8 = txt23.Text;
-                        string t9 = txt24.Text;
-                        string t11 = txtDel25.Text;
-                        string date = "";
-                        if (chxDate3.Checked == true)
-                            date = " تاریخ " + "%%";
-                        //compelete = compelete + "." + "%%%%%%%%%%";
-                        st.D1 = t1;
-                        st.D2 = t2;
-                        st.D3 = t3;
-                        st.D4 = t4;
-                        st.D5 = t5;
-                        st.D6 = t6;
-                        st.D7 = t7;
-                        st.D8 = t8;
-                        st.D9 = t9;
-                        st.D10 = date;
-                        st.D11 = t11;
-                        context.WhiteSms.Add(st);
-
-                    }
-                    context.SaveChanges();
-                }
-            }
-            catch (Exception ex)
-            {
-
-                MessageBox.Show(ex.Message);
-            }
-        }
-
-        private void chx6_CheckedChanged(object sender, EventArgs e)
-        {
-            Ready_white_Sms();
-        }
-
-        private void chx7_CheckedChanged(object sender, EventArgs e)
-        {
-            Ready_white_Sms();
-        }
-
-        private void chx8_CheckedChanged(object sender, EventArgs e)
-        {
-            Ready_white_Sms();
-        }
-
-        private void chx9_CheckedChanged(object sender, EventArgs e)
-        {
-            Welcome_white_Sms();
-        }
-
-        private void chx10_CheckedChanged(object sender, EventArgs e)
-        {
-            Delivery_white_Sms();
-        }
-
-        private void chx11_CheckedChanged(object sender, EventArgs e)
-        {
-            Delivery_white_Sms();
-        }
-
-        private void chx12_CheckedChanged(object sender, EventArgs e)
-        {
-            Delivery_white_Sms();
-        }
-
-        private void chx13_CheckedChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-        }
-
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-            Order_white_Sms();
-        }
-
-
-        private void panel3_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
         private async void btnRegisterInternet_Click(object sender, EventArgs e)
         {
             Ping ping = new Ping();
@@ -2272,15 +901,7 @@ namespace Laundry
 
             if (pingStatus.Status == IPStatus.Success)
             {
-                //MessageBox.Show("Connected");
-            }
-            else
-            {
-                MessageBox.Show("اینترنت وصل نیست", "اینترنت", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
-            //-------------------
-            string application = "Laundry",
+                string application = "Laundry",
                 managename = txtManageName.Text,
                 serial = txtSerial.Text,
                 cammersialname = txtName.Text,
@@ -2291,9 +912,17 @@ namespace Laundry
                 address = txtAdress.Text,
                 Reagent = txtReagent.Text;
 
-            Data_Importer Data = new Data_Importer();
-            string data = await Data.GET("http://papiloo.ir/pyment/Papiloo/Insert.php", application, managename, serial, cammersialname, state, phone, tel, email, address, Reagent);
-            MessageBox.Show("ejra shod");
+                Data_Importer Data = new Data_Importer();
+                string data = await Data.GET("http://papiloo.ir/pyment/Papiloo/Insert.php", application, managename, serial, cammersialname, state, phone, tel, email, address, Reagent);
+                //MessageBox.Show("ejra shod");
+            }
+            else
+            {
+                MessageBox.Show("اینترنت وصل نیست", "اینترنت", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            //-------------------
+
 
         }
 
@@ -2321,39 +950,71 @@ namespace Laundry
 
         }
 
-        private void lbl20_Click(object sender, EventArgs e)
-        {
 
+        public void Save_WhiteSms(string text)
+        {
+            try
+            {
+
+                kitchenEntities context = new kitchenEntities();
+                if (key == 1)
+                {
+                    var welcome = context.WhiteSms.Where(c => c.W1 != null || c.W1 != "").FirstOrDefault();
+                    welcome.W1 = text;
+                    context.SaveChanges();
+                    return;
+                }
+                if (key == 2)
+                {
+                    var accept = context.WhiteSms.Where(c => c.S1 != null || c.S1 != "").FirstOrDefault();
+                    accept.S1 = text;
+                    context.SaveChanges();
+                    return;
+                }
+                if (key == 3)
+                {
+                    var ready = context.WhiteSms.Where(c => c.R1 != null || c.R1 != "").FirstOrDefault();
+                    ready.R1 = text;
+                    context.SaveChanges();
+                    return;
+                }
+                if (key == 4)
+                {
+                    var delivery = context.WhiteSms.Where(c => c.D1 != null || c.D1 != "").FirstOrDefault();
+                    delivery.D1 = text;
+                    context.SaveChanges();
+                    return;
+                }
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
         }
-
-        private void tabDeliveryWhiteSms_Click(object sender, EventArgs e)
+        private void btnSaveWelcome_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void txtWel16_TextChanged(object sender, EventArgs e)
-        {
-            label23.Text = txtWel16.TextLength.ToString();
-            Welcome_white_Sms();
+            key = 1;
+            Save_WhiteSms(txtWelcome.Text);
             
         }
 
-        private void txt42_TextChanged(object sender, EventArgs e)
+        private void btnSaveAccept_Click(object sender, EventArgs e)
         {
-            label25.Text = txt42.TextLength.ToString();
-            Order_white_Sms();
+            key = 2;
+            Save_WhiteSms(txtAccept.Text);
         }
 
-        private void txtReadyt10_TextChanged(object sender, EventArgs e)
+        private void btnSaveReady_Click(object sender, EventArgs e)
         {
-            label27.Text = txtReadyt10.TextLength.ToString();
-            Ready_white_Sms();
+            key = 3;
+            Save_WhiteSms(txtReady.Text);
         }
 
-        private void txtDel25_TextChanged(object sender, EventArgs e)
+        private void btnSaveDelivery_Click(object sender, EventArgs e)
         {
-            label28.Text = txtDel25.TextLength.ToString();
-            Delivery_white_Sms();
+            key = 4;
+            Save_WhiteSms(txtDelivery.Text);
         }
     }
 }
