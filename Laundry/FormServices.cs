@@ -1817,14 +1817,20 @@ namespace Laundry
                                 MessageBox.Show("از بخش تنظیمات پیامک نام تجاری را ثبت کنید", "تنظیمات", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                                 return;
                             }
-                            string message = "";
-                            if (string.IsNullOrEmpty(sms.R10))
-                                 message = sms.R1 + txtName.Text.Replace(" ", ".") + sms.R3 + eshterak + sms.R5 + txtCodeRahgiri.Text + sms.R7 + sms.R8 + setName.CommercialName + sms.R11;
-                            else
-                                message = sms.R1 + txtName.Text.Replace(" ", ".") + sms.R3 + eshterak + sms.R5 + txtCodeRahgiri.Text + sms.R7 + sms.R8 + setName.CommercialName + dtNewService.Text + sms.R11;
-
-                            //MessageBox.Show(message);
-                            //return;
+                            string message = sms.R1;
+                        message = message.Insert(message.IndexOf("%%"), txtName.Text.Replace(" ","."));
+                        message = message.Remove(message.IndexOf("%%"), 2);
+                        //---------
+                        message = message.Insert(message.IndexOf("%%"), txtEshterak.Text);
+                        message = message.Remove(message.IndexOf("%%"), 2);
+                        //---------
+                        message = message.Insert(message.IndexOf("%%"), txtCodeRahgiri.Text);
+                        message = message.Remove(message.IndexOf("%%"), 2);
+                        //---------
+                        message = message.Insert(message.IndexOf("%%"), dtNewService.Text);
+                        message = message.Remove(message.IndexOf("%%"), 2);
+                        //MessageBox.Show(message);
+                        //    return;
                             //--------
                             //System.Web.HttpUtility.HtmlDecode(text);
 
@@ -1905,8 +1911,18 @@ namespace Laundry
                         var serv = context.Service.Where(c => c.CodeRahgiri == txtCodeRahgiri.Text).FirstOrDefault();
 
                         //-----
-                        string message = sms.R1 + serv.Name.Replace(" ",".") + sms.R3 + serv.Eshterak + sms.R5 + txtCodeRahgiri.Text + sms.R7 + sms.R8 + setName.CommercialName + sms.R10;
-
+                        string message = sms.R1;
+                        message = message.Insert(message.IndexOf("%%"), txtName.Text.Replace(" ", "."));
+                        message = message.Remove(message.IndexOf("%%"), 2);
+                        //---------
+                        message = message.Insert(message.IndexOf("%%"), txtEshterak.Text);
+                        message = message.Remove(message.IndexOf("%%"), 2);
+                        //---------
+                        message = message.Insert(message.IndexOf("%%"), txtCodeRahgiri.Text);
+                        message = message.Remove(message.IndexOf("%%"), 2);
+                        //---------
+                        message = message.Insert(message.IndexOf("%%"), dtNewService.Text);
+                        message = message.Remove(message.IndexOf("%%"), 2);
                         ErsalNashode En = new ErsalNashode();
                         En.Name = serv.Name;
                         En.Phone = serv.Mobile;
@@ -2255,12 +2271,19 @@ namespace Laundry
                 var sms = context.WhiteSms.Where(c => c.D1 != null && c.D1 != "").FirstOrDefault();
                 var x = context.ReportService.Where(c => c.CodeRahgiri == txtCodeRahgiri.Text).FirstOrDefault();
                 var setName = context.Setting.Where(c => c.CommercialName != "" || c.CommercialName != null).FirstOrDefault();
-                string message = "";
-                if (string.IsNullOrEmpty(sms.D10))
-                    message = sms.D1 + serv.Name.Replace(" ", ".") + sms.D3 + serv.Eshterak + sms.D5 + txtCodeRahgiri.Text + sms.D7 + sms.D8 + setName.CommercialName + sms.D11;
-                else
-                    message = sms.D1 + serv.Name.Replace(" ", ".") + sms.D3 + serv.Eshterak + sms.D5 + txtCodeRahgiri.Text + sms.D7 + sms.D8 + setName.CommercialName + dtNewService.Text + sms.D11;
-
+                string message = sms.D1;
+                message = message.Insert(message.IndexOf("%%"), txtName.Text.Replace(" ", "."));
+                message = message.Remove(message.IndexOf("%%"), 2);
+                //---------
+                message = message.Insert(message.IndexOf("%%"), txtEshterak.Text);
+                message = message.Remove(message.IndexOf("%%"), 2);
+                //---------
+                message = message.Insert(message.IndexOf("%%"), txtCodeRahgiri.Text);
+                message = message.Remove(message.IndexOf("%%"), 2);
+                //---------
+                message = message.Insert(message.IndexOf("%%"), dtNewService.Text);
+                message = message.Remove(message.IndexOf("%%"), 2);
+                
                 //-----ersal sms
                 if (vaziyat == 1)
                 {
@@ -2369,27 +2392,7 @@ namespace Laundry
                     //}
 
                 }
-                else
-                {
-                    try
-                    {
-                            var tasfiye = context.Service.Where(c => c.CodeRahgiri == txtCodeRahgiri.Text).FirstOrDefault();
-                            if (chxTasfiye.Checked == true)
-                            {
-                                tasfiye.Tasfiye = "0";
-                                //tasfiye.Baghimande = 0;
-                                //tasfiye.Baghimande = 0;
-                            }
-                            context.SaveChanges();
-                            lblError.Text = "اطلاعات ثبت شد.پیامک غیرفعال است";
-                        
-                    }
-                    catch (Exception ex)
-                    {
 
-                        MessageBox.Show("4 مشکل در ثبت تصفیه" + "\n" + ex.Message);
-                    }
-                }
 
             }
             catch (Exception)
@@ -2401,8 +2404,18 @@ namespace Laundry
                     var sms = context.WhiteSms.Where(c => c.D1 != null && c.D1 != "").FirstOrDefault();
                     var x = context.ReportService.Where(c => c.CodeRahgiri == txtCodeRahgiri.Text).FirstOrDefault();
                     var setName = context.Setting.Where(c => c.CommercialName != "" || c.CommercialName != null).FirstOrDefault();
-                    string message = sms.D1 + serv.Name.Replace(" ", ".") + sms.D3 + serv.Eshterak + sms.D5 + txtCodeRahgiri.Text + sms.D7 + sms.D8 + setName.CommercialName + dtNewService.Text;
-
+                    string message = sms.D1;
+                    message = message.Insert(message.IndexOf("%%"), txtName.Text.Replace(" ", "."));
+                    message = message.Remove(message.IndexOf("%%"), 2);
+                    //---------
+                    message = message.Insert(message.IndexOf("%%"), txtEshterak.Text);
+                    message = message.Remove(message.IndexOf("%%"), 2);
+                    //---------
+                    message = message.Insert(message.IndexOf("%%"), txtCodeRahgiri.Text);
+                    message = message.Remove(message.IndexOf("%%"), 2);
+                    //---------
+                    message = message.Insert(message.IndexOf("%%"), dtNewService.Text);
+                    message = message.Remove(message.IndexOf("%%"), 2);
                     ErsalNashode En = new ErsalNashode();
                     En.Name = serv.Name;
                     En.Phone = serv.Mobile;
@@ -2933,7 +2946,7 @@ namespace Laundry
             {
                 if (txtPhone.TextLength == 11)
                 {
-                    txtEshterak.Text = txtPhone.Text.Substring(7, 4);
+                    txtEshterak.Text = txtPhone.Text.Substring(6, 5);
                     txtName.Text = "";
                     txtName.Focus();
                     var check = context.User.Where(c => c.Eshterak == txtEshterak.Text).FirstOrDefault();
